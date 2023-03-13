@@ -16,7 +16,7 @@ A couple of csl style has been edited and can be downloaded (see corresponding f
 
 Default name for comentator is "Worried seeker" in capital letter (WORRIED SEEKER). You'll have to change it manually or by search and replace.
 
-# 1 Centered Formatted Templates
+# 1.Centered Formatted Templates
 ## 1.1 Highlight Templates
 ### 1.1.1 Base Templates
 ```<p style="text-align:center;">{{citation}}<br /> {{highlight}}</p>{{if comment}}<p style="text-align:center;">WORRIED SEEKER<br />”{{comment}}”{{endif}}</p><br />```
@@ -32,7 +32,7 @@ Same form as the base template above without breaking space at the end <br />
 <i>Note: Citation will not be linked – because adding the variable {{citation}} would made the author appears. If a csl style could be edited so the inline citation is left blank, it will give a local solution for this, however, it will breaks the highlight template render because the cst style will also apply to the {{citation}}, ending with an empty author thus loosing the intention of putting the comentator in vocal dialog with the author(s).</i>
 ## 1.3 Note Title Template
 ```<h1 style="text-align:center;">{{title}}<br/>({{date}})</h1>```
-# 2 Left-Right Formatted Templates
+# 2.Left-Right Formatted Templates
 Author will appear on the left ; commentator (“you”) on the right of the document where you will export your note and render with csl style.
 <i>Note: Consecutive highlights that are not commented would stay on the right (or the left if you prefer and edit as it). Improvement here would be to set a conditional that spot two consecutive elements – let it a paragraph on the same side, and if that is the case, change the paragraph alignment to the opposite side. I do not see currently how this would be possible. Anyway, it seems to be a minor issue.</i>
 ## 2.1 Highlight Templates
@@ -42,6 +42,7 @@ Author will appear on the left ; commentator (“you”) on the right of the doc
 ```<p style="text-align:left;">”{{citation}}<br />{{highlight quotes='false'}}”</p>{{if comment}}<p style="text-align:right;">” WORRIED SEEKER<br /> {{comment}}”{{endif}}</p><br />```
 ### 2.1.3 Thightest Form
 ```<p style="text-align:left;">”{{citation}}<br />{{highlight quotes='false'}}”</p>{{if comment}}<p style="text-align:right;">” WORRIED SEEKER<br /> {{comment}}”{{endif}}</p>```
+
 ## 2.2 Standalone note templates
 Commentator's comments will be place on the right side of the document
 ### 2.2.1 Base Template
@@ -49,10 +50,26 @@ Commentator's comments will be place on the right side of the document
 ### 2.2.2 Thighter
 ```<p style="text-align:right;">WORRIED SEEKER<br />”{{comment}}”</p>```
 
+# 3.Samples
+## Left-Left, French Conventions
+(picture from zotero reader below)
+* Title Note: ```<h1 style="text-align:left;">Choral Anotations<br/>{{date}}</h1><br />```
+* (Standalone) Note Template: ```<p style="text-align:left;">" WORRIED SEEKER: {{comment}} "</p><br />``` <br />
+* Higlight Note Template: ```<p style="text-align:left;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:left;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />``` <br />
 
-# 3 More Templates
+## Left-right, French Conventions
+* Title Note: ```<h1 style="text-align:left;">Choral Anotations<br/>{{date}}</h1><br />```
+* (Standalone) Note Template: ```<p style="text-align:center;">" WORRIED SEEKER: {{comment}} "</p><br />``` <br />
+* Higlight Note Template: ```<p style="text-align:center;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:center;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />``` <br />
 
-## 3.1 Didascalia Workaround
+## Centered, French Conventions
+* Title Note: ```<h1 style="text-align:center;">Choral Annotations<br/>{{date}}</h1><br />```
+* (Standalone) Note Template: ```<p style="text-align:left;">" WORRIED SEEKER: {{comment}} "</p><br />``` <br />
+* Higlight Note Template: ```<p style="text-align:left;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:right;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />``` <br />
+
+# 4.More Templates
+
+## 4.1 Didascalia Workaround
 It is hardly possible to enter didascalias (precision about the speech "quietly", etc), however, it is possible to get an apromixation editing the (standalone) note template. See picture below to grasp the idea.
 Didascalias rendered fro the reader insert link TK.
 
