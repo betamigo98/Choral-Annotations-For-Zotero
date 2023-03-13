@@ -2,7 +2,7 @@
 This project will be describe soon
 
 # Templates Proposed In This Repo
-Those templates has been edited from the default template made avalaible from Zotero 6.+ and avalaible in their documentation.
+Templates has been edited from the default template made avalaible from Zotero 6.+ and avalaible in their documentation.
 # CSL Styles Files In This Repo
 Csl-style proposed in this repo has been edited with the visual editor from [CitationStyle.org](https://editor.citationstyles.org/visualEditor/).
 The APA7th style has been choosen arbitrarly, for a subjective perception of pupolarity, and because it was the first style proposed for editing.
