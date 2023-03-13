@@ -1,9 +1,9 @@
 # PolyDevice
 This project will be describe soon
 
-# About the templates proposed in this repo
+# Templates Proposed In This Repo
 Those templates has been edited from the default template made avalaible from Zotero 6.+ and avalaible in their documentation.
-# About The Csl Styles Files In This Repo
+# CSL Styles Files In This Repo
 Csl-style proposed in this repo has been edited with the visual editor from [CitationStyle.org](https://editor.citationstyles.org/visualEditor/).
 The APA7th style has been choosen arbitrarly, for a subjective perception of pupolarity, and because it was the first style proposed for editing.
 It has been checked using the [CSL Style and Validator](https://validator.citationstyles.org/) following [the procedure recommended in Zotero documentation](https://www.zotero.org/support/dev/citation_styles/style_editing_step-by-step#validation).
