@@ -1,3 +1,6 @@
+# Install Centered Formated Templates
+
+
 
 1.Start with the centered highlight template in its thighest form - let the two other templates and the csl style import for another moment. No need to edit the name, nor the other two template, neither the csl style for the moment.
 2.Just follow your usual routine of reading and note taking.
