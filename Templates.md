@@ -68,23 +68,38 @@ Commentator's comments will be place on the right side of the document
 ## Centered, French Conventions
 * Title Note: ```<h1 style="text-align:center;">Choral Annotations<br/>{{date}}</h1><br />```
 * (Standalone) Note Template: ```<p style="text-align:left;">" WORRIED SEEKER: {{comment}} "</p><br />``` <br />
-* Higlight Note Template: ```<p style="text-align:left;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:right;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />``` <br />
+* Higlight Note Template: ```<p style="text-align:center;">{{citation}}:<p style="text-align:left">{{highlight quotes='false'}}{{if comment}}<p style="text-align:center;">WORRIED SEEKER: <p style="text-align:right;">{{comment}}{{endif}}</p><br />``` <br />
 
 
 # 4. More Templates
 
-## 4.1 Didascalia Workaround
+## 4.1 Mixted : Centered for names and left-right for speeches
+* Title Note: ```<h1 style="text-align:center;">Choral Annotations<br/>{{date}}</h1><br />```
+* (Standalone) Note Template: ```<p style="text-align:center;">WORRIED SEEKER:<p style="text-align:right;">{{comment}}</p><br />``` <br />
+* Higlight Note Template: ```<p style="text-align:left;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:right;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />``` <br />
+
+## 4.2 Didascalia Workaround
 It is hardly possible to enter didascalias (precision about the speech "quietly", etc), however, it is possible to get an apromixation editing the (standalone) note template. See picture below to grasp the idea.
 Didascalias rendered fro the reader insert link TK.
 
 Limitations: if you insert your own personal comment on a sticky note, your name or the one you choose will not appear anymore.
 If that is somehow interesting for you, it has been done with the following templates:<br />
+* Title Note: ```<h1 style="text-align:center;">Choral Anotations<br/>{{date}}</h1><br />```
 * (Standalone) Note Template: ```<p style="text-align:left;">{{comment}}:</p>``` <br />
 * Higlight Note Template: ```<p style="text-align:left;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:left;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />``` <br />
-* Title Note: ```<h1 style="text-align:center;">Choral Anotations<br/>{{date}}</h1><br />```
 
 
+# 5 Troubleshooting and ajustment
 
+There are some chance that what you would like to ajust are the speciales characters and spaces.
+Remember that there are two components involved: the templates from Zotero and the CSL Styles.
+Once the template editor is opened, it is quite easy to make some trial and error from Zotero Reader.
+One recomendation could be to keep the template editor pane, the pdf reder pane, and the word editor open play from that.
+
+More tricky might be to edit the csl, but the avalaibale documentation and the forum space could help.
+
+# 6 Ehnancment and future possibilities
+* Set the Publisher or the date only as the inline citation
 
 
 
