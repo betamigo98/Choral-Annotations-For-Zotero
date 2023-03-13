@@ -11,7 +11,7 @@ It has been checked using the [CSL Style and Validator](https://validator.citati
 # Security concerns
 ## Templates
 Undesired results, unsuccessful procedures or other misuses scenarios will not "break anything" in your Zotero database. Your previous annotation - exported or not yet exported will not change nor be affected. Your future annotation will be affected at the only moment of exporting highlights or standalone notes.
-## Csl style
+## CSL Style
 General documentations for csl style edition is already avalaible.
 When installed, the title given to the csl style will mark it apart from the others ones, so installing styles from this repo will not overwright existing one in your style library.
 ## Additional Notes
