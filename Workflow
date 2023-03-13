@@ -1,0 +1,10 @@
+# 1.Choose a template and paste it in the advanced preference pane.
+If you tried the instructions from the jump start file, you could just edit the two others template: the standalone note template and title template. See picture if needed.
+
+
+# 2. Retrieve your note from your word processor document
+Open a word editor and open the add note option. Retrieve the note you just created - it should the first on the list as results are filter by date of modification.
+For that you'll need to install the Zotero pluggin for (compatible) word editors i.e. LibreOffice for example.
+
+Ready!
+Now you could add and edit your bibliography as usual, and format the document at your convenience.
