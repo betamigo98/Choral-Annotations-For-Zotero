@@ -52,8 +52,8 @@ Commentator's comments will be place on the right side of the document
 
 # 3 More Templates
 
-## 3.1 Didascalia
-It is hardly possible to enter didascalias (precision about the speech "quietly, etc"), however, it is possible to get an apromixation editing the (standalone) note template. See picture below to grasp the idea.
+## 3.1 Didascalia Workaround
+It is hardly possible to enter didascalias (precision about the speech "quietly", etc), however, it is possible to get an apromixation editing the (standalone) note template. See picture below to grasp the idea.
 Didascalias rendered fro the reader insert link TK.
 
 Limitations: if you insert your own personal comment on a sticky note, your name or the one you choose will not appear anymore.
