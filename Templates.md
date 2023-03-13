@@ -48,3 +48,22 @@ Commentator's comments will be place on the right side of the document
 ```<p style="text-align:right;">WORRIED SEEKER<br />”{{comment}}”</p><br />```
 ### 2.2.2 Thighter
 ```<p style="text-align:right;">WORRIED SEEKER<br />”{{comment}}”</p>```
+
+
+# 3 More Templates
+
+## 3.1 Didascalia
+It is hardly possible to enter didascalias (precision about the speech "quietly, etc"), however, it is possible to get an apromixation editing the (standalone) note template. See picture below to grasp the idea.
+Didascalias rendered fro the reader insert link TK.
+
+Limitations: if you insert your own personal comment on a sticky note, your name or the one you choose will not appear anymore.
+If that is somehow interesting for you, it has been done with the following templates:<br />
+* (Standalone) Note Template: ```<p style="text-align:left;">{{comment}}:</p>``` <br />
+* Higlight Note Template: ```<p style="text-align:left;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:left;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />``` <br />
+* Title Note: ```<h1 style="text-align:center;">Choral Anotations<br/>{{date}}</h1><br />```
+
+
+
+
+
+
