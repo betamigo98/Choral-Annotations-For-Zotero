@@ -4,7 +4,8 @@ This file compile all the templates that has to be inserted in the corresponding
 <p>Two formats options had been considered below: 1) a centered format and 2) a right-left format.
 Other options such as left-right formats, left-left format, and others settings are of course possible but has not been written yet.</p>
 
-<p>Also, one shall observe that they are three classes of template corresponding to the three different item and item fields in the advanced preference pane in Zotero:
+## Precautionary notes
+<p>One shall observe that they are three classes of template corresponding to the three different item and item fields in the advanced preference pane in Zotero:
 1) highlight template ; 2) standalone note template ; and 3) note title template. To get a consistent format for one option it is recommended to edit all of these three classes. You might try and see for yourself.
 
 A last layer of customisation is related to the syntax wrapped around the speakers of the dialogs, that is, mainly the location of the following characters: "" ; : ; and - . It also include the capitalisation of the comentator name and the spaces in between two blocks of text in the note file that is displaye in the right-hand pane of the Zotero reader interface. Depending on national and cultural traditions, norms and conventions, editorial choices and personal preferences, you might want to edit the corresponding part of the template yourself if the templates proposed below don't match what you are looking for.
