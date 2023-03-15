@@ -11,10 +11,10 @@ date-released: 2023-03-15
 url: "https://github.com/betamigo98/Choral-Annotations-For-Zotero"
 references:
     title: "Zotero. Corporation for Digital Scholarship."
-version: 6+
+version: 6
     type: software
-license: GNU AGPL 3
+license: AGPL-3.0
     title: "Csl editor"
 repository-code: "https://github.com/citation-style-language/csl-editor"
     type: software
-    license: MIT License
+    license: MIT
