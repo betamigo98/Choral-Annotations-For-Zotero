@@ -12,15 +12,15 @@ To get a first look of what you can do with the choral templates, below is the s
 1. Start with the [centered highlight template](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/TEMPLATES%20SCRIPTS.md#111-base-templates) in its thighest form - let the two other templates and the csl style import for another moment.
 No need to edit the name, nor the other two template, neither the csl style for the moment.
 2. Just follow your usual routine of reading and note taking.
-3. Add your annotations to a note from the right-hand pane menu (top-right button). Either one-by-one (you will have to create a note beforehand), either all at once by right-clicking in the right-hand pane and choose "create note from annotations". <i> For a better effect and surprise, export all your anntations at once - click "create note from annotation button" in the top-right-of the right-hand pane in the reader </i>.
+3. Add your annotations to a note from the right-hand pane menu (top-right button). Either one-by-one (you will have to create a note beforehand), either all at once by right-clicking in the right-hand pane and choose "create note from annotations". <i> For a better effect and surprise, export all your anntations at once - click "[create note from annotation button](https://github.com/betamigo98/PolyDevice/blob/main/Screenshots/Libre%20Office%20-%20Add%20Notes.png)" in the top-right-of the right-hand pane in the reader </i>.
 
     That's it!
 
 Now hopefully you should have a much better idea of the end result of a proper edition.<br>
 
-What will remain for a propper finish is to strap out the parentesis wrapping the author-date - the csl style will do ; and decide if and where do you want to put the "" and the eventual dashes.<br>
+What will remain for a propper finish is to strap out the parentesis wrapping the author-date - the CST Style will do that from the text editor and to decide if you want to put the "" and the eventual dashes. And where to put it.<br>
 
 ## Give it a proper finish
-* If you feel ready for it, check the detailed workflow section to finish editing your chorale annotations in your text editor.<br>
-* If you feel like in doubt, you might better have a look to the avalaible screenshots to get an idea of what the templates do.
-* Of course you could also try with the left-right format or any other template. The rationale of this jump start was that the centered format is slighlty more visually striking than the others.<br>
+* If you feel ready for it, check the [detailed workflow section](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Installation%20-%20Steps%20With%20Screenshots.md#install-csl-styles) to finish editing your chorale annotations in your text editor.<br>
+* If you feel like in doubt, you might better have a look to the avalaible [screenshots](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/Screenshots), [sample documents](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/Choral%20Rendering%20-%20Free%20Samples) to get an idea of what the templates can do.
+* Of course you could also try with the left-right format or [any other template](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/TEMPLATES%20SCRIPTS.md#template-scripts). The rationale of this jump start was that the centered format is slighlty more visually striking than the others.<br>
