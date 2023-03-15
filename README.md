@@ -1,7 +1,7 @@
 # Choral Annotions for Zotero
 Make your annotations look like a screenplay!<br />
 
-#Quick overview
+# Quick overview
 Annotate your reading from Zotero reader...<br />
 
 Create an Choral Annotation rendering in just one click!<br />
