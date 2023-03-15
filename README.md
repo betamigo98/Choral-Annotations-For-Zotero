@@ -61,6 +61,6 @@ Rinck, F. (2006). Gestion de la polyphonie et figure de l’auteur dans les part
 [See it online!](https://www.zotero.org/search/type/group?q=Chorale%20Annotations%20Library) There is a public library hosted by Zotero.
 
 # Roadmap and scenarios for Choral Annotations
-* Trials in various field and sector!
-* More twaeked CSL Styles for more possibilities. The APA7 modified here has not been tested yet for item that are not acamdeic article nor with more than 3 authors.
+* Trials in various fields and sectors
+* More tweaked CSL Styles for more possibilities! The APA7 modified here has not been tested yet for item that are not acamdeic article nor with more than 3 authors.
 * Screenshot files are quite big to be displayed in github and should be reduced. You can see it anyway, or download it.
