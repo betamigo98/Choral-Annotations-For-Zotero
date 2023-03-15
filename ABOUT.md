@@ -21,4 +21,5 @@ When installed, the title given to the csl style will mark it apart from the oth
 * A Public Library is linked to this repo where you will find every references made in this repo, along with with some extended bibliography and various ressources. [See Choral Annotation in Zotero Groups.](https://www.zotero.org/search/type/group?q=Choral%20Annotation)
 * Choral has been chosen from other words such as polyphonia, dramatic, and dialogic. Decision had been partly due as of personal preference and partly because it can be used to discuss and illustrate the former words on a conceptual level, and not being a concept itself (or more distant to conceptual connotation to my view, [read more about this](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/README.md#more-about-choral-annotations)).
 * It has been framed as "a technology" so far due to a lack of better alternatives, but is a script for the most part.
+* Screenshot files are quite big to be displayed in github and should be reduced. You can see it anyway, or download it.
 
