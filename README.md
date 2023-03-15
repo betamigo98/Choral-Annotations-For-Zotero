@@ -15,6 +15,7 @@
 ## <p align="center">...or just have some fun!
 
 # Why using Choral Annotations for Zotero ?
+* <i>"Who said that?"</i> In a so-called "post-truth era" were so-called "anthropos" are struggling against so-called "Fake News" with technologies trained by so-called "Chat-GPT3-like artificial intelligence, Choral annotations built on critical reflex to sustain a <i>call-in</i> culture caring about responsible authorship.
 * Engage with the world by projecting yourself in dialog with authors, publisher, or any metadata field! <br />
 * Use it as a didactic tool for writing activities<br />
 * Enter reflections on authorship, identity, plagiarism, rhetorics, polyphonia, ventriloquism, and much more!<br />
