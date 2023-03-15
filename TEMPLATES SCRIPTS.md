@@ -1,10 +1,10 @@
 # Template Scripts
 Below are all the templates scripts that has been edited so far: <br>
-1. centered format with couple of variations on spacement (section [1](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#1-centered-formatted-templates))
-2. right-left format with also variations on spacement (section [2](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#2-left-right-formatted-templates))
-3. left-right formats, left-left format, had been inserted in sections [3](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#3-other-templates---with-previews) and section [4](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#4-more-templates) gives some extra templates
-4. highlight colors mapping to any text of your choice is in section [4.3](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#43-using-highlight-colors)
-5. There is also an attempt to integrate didascalias in section [4.2](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#42-didascalia-workaround)
+1. centered format with couple of variations on spacement. See [section 1](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#1-centered-formatted-templates)
+2. right-left format with also variations on spacement. See [section 2](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#2-left-right-formatted-templates)
+3. left-right formats, left-left format, had been inserted in [section 3](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#3-other-templates---with-previews) and [section 4](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#4-more-templates) gives some extra templates
+4. highlight colors mapping to any text of your choice is in [section 4.3](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#43-using-highlight-colors)
+5. there is also an attempt to integrate didascalias in [section 4.2](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#42-didascalia-workaround)
 
 * Default name for comentator is "WORRIED SEEKER". You'll have to change it manually or by search and replace.<br />
 * Special characters wrapping the dialogs ```" "" " ";" ":" ";" "-" ";"``` and letter capitalization could be edited both from within the template syntax and the CSV style editor.
