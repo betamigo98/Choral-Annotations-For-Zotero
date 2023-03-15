@@ -1,4 +1,5 @@
-# Install Formated Templates
+# <p align="center">Step-by-Step Workflow And Guidelines</p>
+# 1. Install Formated Templates
 As html scripts, there is no formal installation in the conventional sense of software installation per se.<br />
 Activating the choral templates is made by text edition and basic copy-pasting.<br />
 <p> 1) From Zoter desktop interface : Edition -> Preferences -> Advanced -> Configuration editor.<br />
@@ -13,12 +14,12 @@ See the following picture that recaps all the template editing part (Centered-fo
 
 For other templates just repeat the steps [mutatis mutandis](https://en.wikipedia.org/wiki/Mutatis_mutandis).
 
-# Install CSL Styles in Zotero
+# 2. Install CSL Styles in Zotero
 * You can download the files directly from the main page of this repository
 * Then [follow the normal procedure to install a style from a local file in Zotero preferences menu](https://www.zotero.org/support/styles).
 * You can also edit your own CSL style (follow the guideline from the same link as above)
 
-# Finishing
+# 3. Finishing
 * From your text editor (with Zotero plugin installed) add any of your note that has been formatted.
 * From here you could so some extra editing, add didascalias for example.
 * Export as pdf
