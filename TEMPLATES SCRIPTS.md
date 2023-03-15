@@ -69,7 +69,7 @@ Commentator's comments will be place on the right side of the document
 ```<p style="text-align:right;">WORRIED SEEKER<br />”{{comment}}”</p>```
 
 
-# 3. Samples
+# 3. Other Templates - with previews
 ## 3.1 Left-Left, French Conventions
 <p align="center"> Preview: <br>
 <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20Left-Left%20French%20Convention.png" width=70% height=70%>
@@ -148,11 +148,12 @@ If you just need to edit some of the colors, delete the correpsonding sections a
 {{endif}}
 ```
 
-# 5 Troubleshooting, ajustment, customization
-Remember that there are two components involved for a full choral rendering: the templates from Zotero and the CSL Styles. The CSL settings only applies for the author side, not to the comentator ("you" side). So it has to be checked carefully that it does not result in double use of brackets, dashes, spaces, and ":".<br />
-Once the template editor in Zotero is opened, it is quite easy to make some trial and error from Zotero Reader switching from one window to the other.
-One recomendation could be to keep the template editor pane, the pdf reder pane, and the word editor open and play from that.<br />
+# 5 Troubleshooting, ajustments, customization
+Remember that there are two components involved for a full choral rendering: the templates from Zotero and the CSL Styles. The CSL settings only applies for the author side, not to the comentator side ("your" side). So it has to be checked carefully that it does not result in double use of brackets, dashes, spaces, and ":".<br />
+Once the template editor in Zotero is opened, it is quite easy to make some trials-and-errors from Zotero Reader switching from one window to the other.
+<i> You could keep multiple windows opened in your desktop and tabswitch in between it : the template editor pane, the pdf reder pane, and the word editor open and play from that.</i><br />
 
-CSL edition might take more time as you will have to look up in macros, variable and value, then save and install the style (quicker of you are confortable enough to edit straight from the console in Zotero corresponding menu).< br />
-In any case there is lot of documentation avalaible for CSL edition. Don't forget you could ask help in Zotero forums too.<br />
-You could also open an issue in that repo.
+CSL edition for yourself (remember [there are APA7 modified for chorale purpose avalaible to download](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/CSL%20Choral%20Styles) with more to come) might take more time as you will have to look up in macros, variable and value, then save and install the style (quicker of you are confortable enough to edit straight from the console in Zotero corresponding menu).< br />
+In any case there is lot of documentation avalaible for CSL edition. You could also open an issue in that repo, or ask help in Zotero forums too.<br />
+
+
