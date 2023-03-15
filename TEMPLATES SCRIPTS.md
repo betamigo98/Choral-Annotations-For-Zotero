@@ -1,5 +1,5 @@
 # Template Scripts
-Below are all the templates scripts that has been edited so far.<br>
+Below are all the templates scripts that has been edited so far: <br>
 1. centered format with couple of variations on spacement (section [1](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#1-centered-formatted-templates))
 2. right-left format with also variations on spacement (section [2](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#2-left-right-formatted-templates))
 3. left-right formats, left-left format, had been inserted in sections [3](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#3-other-templates---with-previews) and section [4](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#4-more-templates) gives some extra templates
@@ -157,4 +157,4 @@ CSL edition for yourself (remember [there are APA7 modified for chorale purpose 
 In any case there is lot of documentation avalaible for CSL edition. You could also open an issue in that repo, or ask help in Zotero forums too.<br />
 
 # Bonus: Template for tag rendering in Obsidian
-I also wrote a template that make use of tags in Zotero and nested tags in Obsidian. See scripts and screenshots from the [original post in Zotero forum](https://forums.zotero.org/discussion/99170/from-zotero-to-obsidian-a-tag-based-workflow-in-pictures#latest)
+I also wrote a template that make use of tags in Zotero and nested tags in Obsidian. See scripts and screenshots from the [original post in Zotero forum](https://forums.zotero.org/discussion/99170/from-zotero-to-obsidian-a-tag-based-workflow-in-pictures#latest).
