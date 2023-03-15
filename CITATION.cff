@@ -9,18 +9,3 @@ version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2023-03-15
 url: "https://github.com/betamigo98/Choral-Annotations-For-Zotero"
-references:
-    title: "Zotero. Corporation for Digital Scholarship. Roy Rosenzweig Center for History and New Media. George Mason university."
-version: 6+
-    type: software
-license: GNU AGPL 3
-    title: "Csl editor"
-repository-code: "https://github.com/citation-style-language/csl-editor"
-    type: software
-    license: MIT License
-    title: "GitHub, Inc"
-    title: "Libre Office. The Document Fondation."
-    type: software
-    	license: CC BY-SA 3.0
-     
-
