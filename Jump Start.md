@@ -9,7 +9,7 @@ To get a first look of what you can do with the choral templates, below is the s
 - That's pretty much all! Except typing in the wrong field there is no major risk for your data. All your previous notes and annotations will not be affected permanently. The templates takes effect only for the future annotation you will add to a note. It is entirely reversible <i>(this is good for later: you could format the same note with all your templates for comparing and making variations)</i>.
 
 ## Steps to reproduce
-1. Start with the centered highlight template in its thighest form - let the two other templates and the csl style import for another moment.
+1. Start with the [centered highlight template](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/TEMPLATES%20SCRIPTS.md#111-base-templates) in its thighest form - let the two other templates and the csl style import for another moment.
 No need to edit the name, nor the other two template, neither the csl style for the moment.
 2. Just follow your usual routine of reading and note taking.
 3. Add your annotations to a note from the right-hand pane menu (top-right button). Either one-by-one (you will have to create a note beforehand), either all at once by right-clicking in the right-hand pane and choose "create note from annotations". <i> For a better effect and surprise, export all your anntations at once - click "create note from annotation button" in the top-right-of the right-hand pane in the reader </i>.
