@@ -15,7 +15,7 @@ version: 6+
     type: software
 license: GNU AGPL 3
     title: "Csl editor"
-	repository-code: "https://github.com/citation-style-language/csl-editor"
+repository-code: "https://github.com/citation-style-language/csl-editor"
     type: software
     license: MIT License
     title: "GitHub, Inc"
