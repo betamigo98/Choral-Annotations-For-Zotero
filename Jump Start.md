@@ -1,6 +1,7 @@
 # Jump start
 Dare to give it a quick try!
-To get a first look of what you can do in a snap, here is a recomendation:
+To get a first look of what you can do with the templates proposed here in a snap, below is a first template to start with.
+If you feel like in doubt, you might better have a look to the avalaible screenshots to get an idea of what the templates do.
 
 ## Precautionnary steps if you are not familiar with zotero advanced preference editing
 -You shall copy the default template field and put it somewhere (word document, zotero note, blocnote or notepad++ for example), but don't worry, the Zotero documentation already has everything at place if you mess up something.

@@ -1,3 +1,7 @@
+Choral annotation is a technology intended to render out the process of reading and annotating as a screenplay where the author, or any other metadata field, is typographically in dialog with the annotator(s).<br />
+It is a set of short html scripts at its core and depend on Zotero templating features and CSV style editing.
+he technology used for choral annotating, mainly Html templates for Zotero Reader and CSV Styles.
+
 # Templates Proposed In This Repo
 Templates has been edited from the default template made avalaible from Zotero 6.+ and avalaible in their documentation.
 # CSL Styles Files In This Repo
@@ -12,4 +16,10 @@ Undesired results, unsuccessful procedures or other misuses scenarios will not "
 General documentations for csl style edition is already avalaible.
 When installed, the title given to the csl style will mark it apart from the others ones, so installing styles from this repo will not overwright existing one in your style library.
 ## Additional Notes
-The described security concern above are the result of my own opinion and, with all that has been said in the space of this repo, the use of the templates remains at your own risk.
+* The described security concern above are the result of my own opinion and, with all that has been said in the space of this repo, the use of the templates remains at your own risk.<br />
+* This my first public repository and my first public release. If you see any issue with something please send me a kind word to explain the situation. You can open an issue in this repo or write a message in Zotero forum mentioning "choral template" or @alflamingo.
+* Betamigo98 and alflamingo are two aliases I use, I could have merge it but as it has consequences (minor) on previous mentioning, I am sticking to both of it. I am currently doing a Master in sociology.
+* If you use the templates in this repo, for choral annotations or other used, please consider using the recommended citation in the CITATION.ff file (should be one click using Zotero connector) and, if you wish, tell me about how you found it usefull or not.
+* A Public Library is linked to this repo where you will find every references made in this repo, along with with some extended bibliography and various ressources. [See Choral Annotation in Zotero Groups.](https://www.zotero.org/search/type/group?q=Choral%20Annotation)
+* Choral has been chosen between some other words such as polyphonia, dramatic, and dialogic. Decision criteria had been partly as of personal preference, partly because it can be used to discuss and illustrate the former words on a conceptual level, and not being a concept itself (or more distant to conceptual connotation, to my view).
+

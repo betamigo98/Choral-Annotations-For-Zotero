@@ -1,12 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "YOUR_NAME_HERE"
-  given-names: "YOUR_NAME_HERE"
+- family-names: "Favre"
+  given-names: "Théo"
   orcid: "https://orcid.org/0009-0009-4121-3348"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "PolyDevice"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
@@ -16,12 +13,12 @@ references:
   - authors:
       - family-names: Spaaks
         given-names: "Jurriaan H."
-    title: "The foundation of Research Software"
+    title: "Zotero. Corporation for Digital Scholarship. Roy Rosenzweig Center for History and New Media. George Mason university."
+	version: 6.+
     type: software
-  - authors:
-      - family-names: Haines
-        given-names: Robert
-    title: "Ruby CFF Library"
+	license: GNU AGPL 3
+    title: "Csl editor"
+	repository-code: "https://github.com/citation-style-language/csl-editor"
     type: software
-    version: 1.0
-title: "My Research Software"
+    license: MIT License
+title: "GitHub, Inc"
