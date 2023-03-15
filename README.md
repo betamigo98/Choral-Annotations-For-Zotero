@@ -29,7 +29,7 @@
 * [Sample documents for closer view](https://github.com/betamigo98/PolyDevice/tree/main/Choral%20Rendering%20-%20Free%20Samples)
 * [All templates](https://github.com/betamigo98/PolyDevice/blob/main/TEMPLATES%20SCRIPTS.md)
 * [Download APA7th choral style](https://github.com/betamigo98/PolyDevice/tree/main/CSL%20Choral%20Styles)
-* [Library Group linked to that project](
+* [Library Group linked to that project](https://www.zotero.org/search/type/group?q=Chorale%20Annotations%20Library)
 
 # More About Choral Annotations
 <p class="text-justify">The more technical I could describe is that this is no more than a couple of html line in three fields in Zotero preference pane. There is also a very short amount of macro editing in the CSV Style editor. The html lines are templates in the sense that they pre-format the annotations you made from Zotero reader pane. Last part of the formatting process pass through a word document and the use of CSV styles.</p>
@@ -58,7 +58,7 @@ Lanarès, J., Laperrouza, M., & Sylvestre, E. (2023). *Design pédagogique* (1re
 Rinck, F. (2006). Gestion de la polyphonie et figure de l’auteur dans les parties théoriques de Rapports de stage. *Lidil. Revue de linguistique et de didactique des langues*, *34*, Article 34. [https://doi.org/10.4000/lidil.23](https://doi.org/10.4000/lidil.23)
   
 # Extended Bibliography
-[See it online!](https...) There is a public library hosted by Zotero.
+[See it online!](https://www.zotero.org/search/type/group?q=Chorale%20Annotations%20Library) There is a public library hosted by Zotero.
 
 # Roadmap and scenarios for Choral Annotations
 * Trials in various field and sector!
