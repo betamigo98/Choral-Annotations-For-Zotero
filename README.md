@@ -15,7 +15,6 @@
 ## <p align="center">...or just have some fun!
 
 # Why using Choral Annotations for Zotero ?
-* <i>"Who said that?"</i> In a so-called "post-truth era" were so-called "anthropos" are struggling against so-called "Fake News" with technologies trained by so-called "Chat-GPT3-like artificial intelligence, Choral annotations built on critical reflex to sustain a <i>call-in</i> culture caring about responsible authorship.
 * Engage with the world by projecting yourself in dialog with authors, publisher, or any metadata field! <br />
 * Use it as a didactic tool for writing activities<br />
 * Enter reflections on authorship, identity, plagiarism, rhetorics, polyphonia, ventriloquism, and much more!<br />
@@ -24,7 +23,7 @@
 * There is also room for therapeutical applications such as bibliotherapy, dramatherapy, and other art therapies.<br />
 * Be surprised by your own anotations and make unexpecteded discoveries!<br />
 * Work in group, compile readings, print it, and be amazed by what comes out!<br />
-
+  
 # Links
 * [Screenshots](https://github.com/betamigo98/PolyDevice/tree/main/Screenshots)
 * [Sample documents for closer view](https://github.com/betamigo98/PolyDevice/tree/main/Choral%20Rendering%20-%20Free%20Samples)
@@ -43,7 +42,7 @@ The choral conception of having a concrete discussion with real people here and 
 
 <p class="text-justify">Not so long ago has been reported some of the struggles and the enlightment of the university students writing process. On the one hand there is a pledge to better dive in the field of literacy to make student critically approrpiate academics norms and expectations (Rinck, 2006). On the other hands, some experiments with annotations had been regarded as very positive from didactic teacher and investigador in (Kersh & Skalak, 2018). At the same time in the field of the digital humanities, there is still plenty of room for creativity, and traditional knowledge fronteers are continuously challenged in stimulating ways. Wether in between art and science, programming and theatre, litterature and scenic arts, narratives of innovating projects, experimental methods, studies resulting from long duration and large scale experiments, bibliotherapy, there must be a place for choral annotations in this world.</p>
 
-<p class="text-justify">As it comes to pedagogy, the choral annotation process proposed here could be ubicated in both of the two categories "Interaction" and "Reflexivité" in the typology proposed by a team of researcher in Switzerland, letting room for a wider reflexion on pedagogy design and practices (Lanarès et al., 2023, see pp. 104 y 109 en particular).</p>
+<p class="text-justify">As it comes to pedagogy, the choral annotation process proposed here could be ubicated in both of the two categories "Interaction" and "Reflexivité" in the typology proposed by a team of researcher in Switzerland, letting room for a wider reflexion on pedagogy design and practices (Lanarès et al., 2023, see pp. 104 y 109 en particular). Now <i>"Who said that?"</i> one might hear. In a so-called "post-truth era" where so-called "anthropos" are struggling against so-called "Fake News" with technologies trained by so-called "Chat-GPT3-like artificial intelligence, Choral annotations could contribute sustaining a culture that cares about responsible authorship.</p>
 
 <p class="text-justify">These are some lines of work to be continued by whoever would find curiosity in it.<br />
 In any case, this project started from having fun, I hope you’ll have some too experimenting it for yourself!</p>
