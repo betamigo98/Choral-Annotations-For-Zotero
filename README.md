@@ -47,7 +47,7 @@ The choral conception of having a concrete discussion with real people here and 
 <p class="text-justify">These are some lines of work to be continued by whoever would find curiosity in it.<br />
 In any case, this project started from having fun, I hope you’ll have some too experimenting it for yourself!</p>
 
-# References
+## References
 Anscombre, J.-C. (2009). La comédie de la polyphonie et ses personnages. *Langue française*, *164*(4), 11-31. [https://doi.org/10.3917/lf.164.0011](https://doi.org/10.3917/lf.164.0011)<br />
 Beaude, B. (2021). Synchorisations réticulaires. En V. Schafer (Ed.), *Temps et temporalités du Web* (pp. 153-172). Presses universitaires de Paris Nanterre. [https://doi.org/10.4000/books.pupo.6133](https://doi.org/10.4000/books.pupo.6133)<br />
 Carel, M., & Ducrot, O. (2009). Mise au point sur la polyphonie. *Langue française*, *164*(4), 33-43. [https://doi.org/10.3917/lf.164.0033](https://doi.org/10.3917/lf.164.0033)<br />
@@ -57,10 +57,9 @@ Kersh, S. E., & Skalak, C. (2018). From Distracted to Recursive Reading: Facilit
 Lanarès, J., Laperrouza, M., & Sylvestre, E. (2023). *Design pédagogique* (1re édition). Épistémé. [https://doi.org/10.55430/8015VA01](https://doi.org/10.55430/8015VA01). [See offical site for downloading a copy](https://designpedagogique.info/)<br />
 Rinck, F. (2006). Gestion de la polyphonie et figure de l’auteur dans les parties théoriques de Rapports de stage. *Lidil. Revue de linguistique et de didactique des langues*, *34*, Article 34. [https://doi.org/10.4000/lidil.23](https://doi.org/10.4000/lidil.23)
   
-# Extended Bibliography
+## Extended Bibliography
 [See it online!](https://www.zotero.org/search/type/group?q=Chorale%20Annotations%20Library) There is a public library hosted by Zotero.
 
 # Roadmap and scenarios for Choral Annotations
-* Trials in various fields and sectors
-* More tweaked CSL Styles for more possibilities! The APA7 modified here has not been tested yet for item that are not acamdeic article nor with more than 3 authors.
-* Screenshot files are quite big to be displayed in github and should be reduced. You can see it anyway, or download it.
+* More tweaked CSL Styles for more possibilities! Make metadatas speak!
+* Trials in various activites from different fields and sectors
