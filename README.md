@@ -40,7 +40,7 @@ The choral conception of having a concrete discussion with real people here and 
 
 <p class="text-justify">Descriptions of annotating practices in medieval times had been reported as a promising example to help tackling contemporary challenges in culture conservation and management of metadatas (see Clement & Fischer, 2021). Annotations are also deeply studied as such, see for example a recent edition by the MIT press (Kalir &#38; Garcia, 2021).<br /></p>
 
-<p class="text-justify">Not so long ago has been reported some of the struggles and the enlightment of the university students writing process. On the one hand there is a pledge to better dive in the field of literacy to make student critically approrpiate academics norms and expectations (REF - fr). On the other hands, some experiments with annotations had been regarded as very positive from didactic teacher and investigador in (#REF Manchester…). At the same time in the field of the digital humanities, there is still plenty of room for creativity, and traditional knowledge fronteers are continuously challenged in stimulating ways. Wether in between art and science, programming and theatre, litterature and scenic arts, narratives of innovating projects, experimental methods, studies resulting from long duration and large scale experiments, bibliotherapy, there must be a place for choral annotations in this world.</p>
+<p class="text-justify">Not so long ago has been reported some of the struggles and the enlightment of the university students writing process. On the one hand there is a pledge to better dive in the field of literacy to make student critically approrpiate academics norms and expectations (Rinck, 2006). On the other hands, some experiments with annotations had been regarded as very positive from didactic teacher and investigador in (Kersh & Skalak, 2018). At the same time in the field of the digital humanities, there is still plenty of room for creativity, and traditional knowledge fronteers are continuously challenged in stimulating ways. Wether in between art and science, programming and theatre, litterature and scenic arts, narratives of innovating projects, experimental methods, studies resulting from long duration and large scale experiments, bibliotherapy, there must be a place for choral annotations in this world.</p>
 
 <p class="text-justify">As it comes to pedagogy, the choral annotation process proposed here could be ubicated in both of the two categories "Interaction" and "Reflexivité" in the typology proposed by a team of researcher in Switzerland, letting room for a wider reflexion on pedagogy design and practices (Lanarès et al., 2023, see pp. 104 y 109 en particular).</p>
 
@@ -53,10 +53,12 @@ Beaude, B. (2021). Synchorisations réticulaires. En V. Schafer (Ed.), *Temps et
 Carel, M., & Ducrot, O. (2009). Mise au point sur la polyphonie. *Langue française*, *164*(4), 33-43. [https://doi.org/10.3917/lf.164.0033](https://doi.org/10.3917/lf.164.0033)<br />
 Clement, T. E., & Fischer, L. (2021). Audiated Annotation from the Middle Ages to the Open Web. *Digital Humanities Quarterly*, *015*(1).<br />
 Kalir, R., & Garcia, A. (2021). *Annotation*. The MIT Press.<br />
-Lanarès, J., Laperrouza, M., & Sylvestre, E. (2023). *Design pédagogique* (1re édition). Épistémé. [https://doi.org/10.55430/8015VA01](https://doi.org/10.55430/8015VA01)
-
+Kersh, S. E., & Skalak, C. (2018). From Distracted to Recursive Reading: Facilitating Knowledge Transfer through Annotation Software. *DHQ: Digital Humanities Quarterly*, *12*(2). [http://www.digitalhumanities.org/dhq/vol/12/2/000387/000387.html](http://www.digitalhumanities.org/dhq/vol/12/2/000387/000387.html) <br />
+Lanarès, J., Laperrouza, M., & Sylvestre, E. (2023). *Design pédagogique* (1re édition). Épistémé. [https://doi.org/10.55430/8015VA01](https://doi.org/10.55430/8015VA01). [See offical site for downloading a copy](https://designpedagogique.info/)<br />
+Rinck, F. (2006). Gestion de la polyphonie et figure de l’auteur dans les parties théoriques de Rapports de stage. *Lidil. Revue de linguistique et de didactique des langues*, *34*, Article 34. [https://doi.org/10.4000/lidil.23](https://doi.org/10.4000/lidil.23)
+  
 # Extended Bibliography
-[See it online!](https...) It is a public library hosted by Zotero
+[See it online!](https...) there is a public library hosted by Zotero
 
 # Roadmap and scenarios for Choral Annotations
 * Trials in various field and sector!
