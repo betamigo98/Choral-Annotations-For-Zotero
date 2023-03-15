@@ -2,34 +2,19 @@
 This file compiles templates scripts.<br>
 <p align="center">Overview of scripts from the advanced configuration pane - example with centered rendering templates<br>
 <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Scripts%20For%20Templates%20(Centered)%20-%20With%20Screenshot.png" width=120% height=120%></p>
-Each one has to be inserted in the three corresponding advanced preference fields in the Zotero desktop interface.
-You could easily retrieve these three fields by entering "template" in the preference search bar.
-They are: 1) Note title template ; 2) Note template (a.k.a. sticky note or standalone note) ; and 3) Highlight text template.
-See screenshots for an overview with examples.</p>
-  
-<p align="justify">Two main formats options had been considered below: 1) a centered format and 2) a right-left format.<br />
-Other options such as left-right formats, left-left format, had been inserted in the sections 3 and 4.<br />
-There is also a script to map the highlight colors to any text of your choice (see section 4.3).<br />
-		  
-Default name for comentator is "Worried seeker" in capital letter (WORRIED SEEKER). You'll have to change it manually or by search and replace.<br />
-					       
-Use of dashes, spaces and quotations marks in the Sample template section (3) has been labelled as "french convention", that is to open and close dialogs with a quotation mark, a space, and use dashes for speaker switch expect for the first line. This might be arbitrary but has been maintained to illustrate the syntax theme.  
-This is the convention I encountered in my highschool education and encountered in some sources. Depending on national and cultural traditions, norms and conventions, editorial choices and personal preferences, you might want to edit the corresponding part of the template yourself if the templates proposed below don't match what you are looking for.
-														      
-Elements you might want to change in that case are the one that refers to all that syntax wrapped around the speakers of the dialogs, that is, mainly the location of the following characters: ```" "" " ";" ":" ";" "-" ";"``` the spaces in between two blocks of text and the capitalisation of the comentator name.
 
-<p align="justify">A complete choral annotation formatting needs to be continued outside Zotero reader i.e. on a text editor where Zotero pluggin has been correctly installed and require CSL editioning.<br />
-		  
-Choral styles has been edited for that purpose and are avalaible for download. These are minimal customization of already existing style (APA7 etc), substituting the inline citation format : "(Author,date,page locator)" by : "AUTHOR DATE: ".
+* Default name for comentator is "Worried seeker" in capital letter (WORRIED SEEKER). You'll have to change it manually or by search and replace.<br />
+* Special characters wrapping the dialogs ```" "" " ";" ":" ";" "-" ";"``` and letter capitalization could be edited both from within the template syntax and the CSV style editor. At this moment it has been decided to do it from the template so that the APA7 choral in this repo should only render AUTHOR DATE for in-line citation in your word document. See additional notes in the section belo for more details about this.<br>
+* Each script has to be inserted in the three corresponding advanced preference fields in the Zotero desktop interface. See additional note section below for more help<br>
+	
+Formats options below:
+1. centered format with couple of variations on spacement (section [1](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#1-centered-formatted-templates))
+2. right-left format with also variations on spacement (section [2](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#2-left-right-formatted-templates))
+3. left-right formats, left-left format, had been inserted in sections [3](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#3-other-templates---with-previews) and section [4](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#4-more-templates) gives some extra templates
+4. highlight colors mapping to any text of your choice is in section [4.3](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#43-using-highlight-colors))
+5. There is also an attempt to integrate didascalias in section [4.2](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#42-didascalia-workaround)
 
-The explicit purpose of this is to render it so it feels like a dialog with you and the author, giving to it a screenplay, screenwrighting look.
-Value of this is that it lets room for variations, for example to set the publisher, the location, or even a date in the role of the "author" (or "speaker" "actor" "performer" if you wish).<br />
-
-Such variations are in the roadmap so it will be accessible for download in the future, but you could already try it for yourself, starting from the CSL edition documentation and visual editor for example.< br>
-
-Current avaliable Choral Style is adapted from APA7 and should render as AUTHOR DATE, plus use the word and instead of ";" between two references.<br />
- 
-If any doubt, checking the screenshots is a good option, and you can also do some trials-and-errors to adjust to your specific preferences and need.
+If any doubt, checking the screenshots is a good option, and you can also do some trials-and-errors to adjust to your specific preferences and need.</p>
 
 # 1. Centered Formatted Templates
 ## 1.1 Highlight Templates
@@ -68,8 +53,10 @@ Commentator's comments will be place on the right side of the document
 ### 2.2.2 Thighter
 ```<p style="text-align:right;">WORRIED SEEKER<br />”{{comment}}”</p>```
 
-
 # 3. Other Templates - with previews
+* Use of dashes, spaces and quotations marks in the Sample template section (3) has been labelled as "french convention", that is to open and close dialogs with a quotation mark, a space, and use dashes for speaker switch expect for the first line. This might be arbitrary but has been maintained to illustrate the syntax theme.  
+This is the convention I encountered in my highschool education and encountered in some sources. Depending on national and cultural traditions, norms and conventions, editorial choices and personal preferences, you might want to edit the corresponding part of the template yourself if the templates proposed below don't match what you are looking for.
+	
 ## 3.1 Left-Left, French Conventions
 <p align="center"> Preview: <br>
 <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20Left-Left%20French%20Convention.png" width=70% height=70%>
@@ -79,14 +66,14 @@ Commentator's comments will be place on the right side of the document
 * (Standalone) Note Template: ```<p style="text-align:left;">" WORRIED SEEKER: {{comment}} "</p><br />``` <br />
 * Higlight Note Template: ```<p style="text-align:left;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:left;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />``` <br />
 
-## 3.2 Left-right, French Conventions
+## 3.2 Left-Right - French Conventions
 <p align="center">Preview: <br /> <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20Left%20Right%20-%20French%20Convention.png" width=70% height=70%)>
 
 * Title Note: ```<h1 style="text-align:left;">Choral Anotations<br/>{{date}}</h1><br />```
 * (Standalone) Note Template: ```<p style="text-align:center;">" WORRIED SEEKER: {{comment}} "</p><br />``` <br />
 * Higlight Note Template: ```<p style="text-align:center;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:center;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />```
 
-## 3.3 Centered, French Conventions
+## 3.3 Centered - French Conventions
 <p align="center">Preview: <br /> <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Centered%20-%20French%20Convention.png" width=70% height=70%>
 
 * Title Note: ```<h1 style="text-align:center;">Choral Annotations<br/>{{date}}</h1><br />```
@@ -148,12 +135,21 @@ If you just need to edit some of the colors, delete the correpsonding sections a
 {{endif}}
 ```
 
-# 5 Troubleshooting, ajustments, customization
+# 5. Additional Notes And Help
+* You should easily retrieve the three templates fields by entering "template" in the advanced configuration search bar.
+They are: 1) Note title template ; 2) Note template (a.k.a. sticky note or standalone note) ; and 3) Highlight text template.<br>
+See screenshots for an overview with examples.
+* A complete choral annotation formatting needs to be continued outside Zotero reader i.e. on a text editor where Zotero pluggin has been correctly installed. You have to add the Choral Style from Zotero before being able to use it in the text editor.
+* Current avalaible CSV Choral Style is adapted from APA7 and should render in your text editor "AUTHOR DATE" with the word "and" instead of ";" between two references. Observe that the colon is edited from the template in that scenario. It is a minimal change substituting the inline citation format : "(Author,date,page locator)" by : "AUTHOR DATE: " (AUTHOR1 and AUTHOR2 and AUTHOR3 when multiple authors). For more than three author, it goes back to "et al." (could be edited for extension in the future).
+* Double brackets, dashes and spaces for the so called "French convention" in the section above is also managed from the template syntax (it could have been and it is still possible to manage that from the CSL style instead of the template).
+* Try to variate authorship: set the publisher, the location, or even a date or any ohter metada in the role of the "author" (or "speaker" "actor" "performer" if you wish).
+
+# Troubleshooting, Ajustments, Customization
 Remember that there are two components involved for a full choral rendering: the templates from Zotero and the CSL Styles. The CSL settings only applies for the author side, not to the comentator side ("your" side). So it has to be checked carefully that it does not result in double use of brackets, dashes, spaces, and ":".<br />
 Once the template editor in Zotero is opened, it is quite easy to make some trials-and-errors from Zotero Reader switching from one window to the other.
 <i> You could keep multiple windows opened in your desktop and tabswitch in between it : the template editor pane, the pdf reder pane, and the word editor open and play from that.</i><br />
 
-CSL edition for yourself (remember [there are APA7 modified for chorale purpose avalaible to download](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/CSL%20Choral%20Styles) with more to come) might take more time as you will have to look up in macros, variable and value, then save and install the style (quicker of you are confortable enough to edit straight from the console in Zotero corresponding menu).< br />
+CSL edition for yourself (remember [there are APA7 modified for chorale purpose avalaible to download](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/CSL%20Choral%20Styles) with more to come) might take more time as you will have to look up in macros, variable and value, then save and install the style (quicker of you are confortable enough to edit straight from the console in Zotero corresponding menu).<br />
 In any case there is lot of documentation avalaible for CSL edition. You could also open an issue in that repo, or ask help in Zotero forums too.<br />
 
 
