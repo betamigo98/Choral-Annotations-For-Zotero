@@ -1,8 +1,7 @@
 # Template Scripts
-<p>This file compiles templates scripts.<br /></p>
-<p align="center">Overview of scripts from the advanced configuration pane - example with centered rendering templates<br />
-<img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Scripts%20For%20Templates%20(Centered)%20-%20With%20Screenshot.png" width=120% height=120%">
-
+This file compiles templates scripts.<br>
+<p align="center">Overview of scripts from the advanced configuration pane - example with centered rendering templates<br>
+<img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Scripts%20For%20Templates%20(Centered)%20-%20With%20Screenshot.png" width=120% height=120%></p>
 Each one has to be inserted in the three corresponding advanced preference fields in the Zotero desktop interface.
 You could easily retrieve these three fields by entering "template" in the preference search bar.
 They are: 1) Note title template ; 2) Note template (a.k.a. sticky note or standalone note) ; and 3) Highlight text template.
@@ -31,12 +30,12 @@ Such variations are in the roadmap so it will be accessible for download in the 
 Current avaliable Choral Style is adapted from APA7 and should render as AUTHOR DATE, plus use the word and instead of ";" between two references.<br />
  
 If any doubt, checking the screenshots is a good option, and you can also do some trials-and-errors to adjust to your specific preferences and need.
-															  </p>
 
 # 1. Centered Formatted Templates
 ## 1.1 Highlight Templates
 ### 1.1.1 Base Templates
 ```<p style="text-align:center;">{{citation}}<br /> {{highlight}}</p>{{if comment}}<p style="text-align:center;">WORRIED SEEKER<br />”{{comment}}”{{endif}}</p><br />```
+
 ### 1.1.2 Tighter Form
 <i>Thighter forms are the same forms as the base template above without breaking space at the end</i><br />
 ```<p style="text-align:center;">{{citation}}<br /> {{highlight}}</p>{{if comment}}<p style="text-align:center;">WORRIED SEEKER<br />”{{comment}}”{{endif}}</p>```
@@ -72,35 +71,40 @@ Commentator's comments will be place on the right side of the document
 
 # 3. Samples
 ## 3.1 Left-Left, French Conventions
-<p align="center"> Preview:<br />
-		 <p><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20Left-Left%20French%20Convention.png width=70% height=70%"></p>
+<p align="center"> Preview: <br>
+<img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20Left-Left%20French%20Convention.png" width=70% height=70%>
+</p>
+
 * Title Note: ```<h1 style="text-align:left;">Choral Anotations<br/>{{date}}</h1><br />```
 * (Standalone) Note Template: ```<p style="text-align:left;">" WORRIED SEEKER: {{comment}} "</p><br />``` <br />
 * Higlight Note Template: ```<p style="text-align:left;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:left;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />``` <br />
 
 ## 3.2 Left-right, French Conventions
 <p align="center">Preview: <br /> <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20Left%20Right%20-%20French%20Convention.png" width=70% height=70%)>
+
 * Title Note: ```<h1 style="text-align:left;">Choral Anotations<br/>{{date}}</h1><br />```
 * (Standalone) Note Template: ```<p style="text-align:center;">" WORRIED SEEKER: {{comment}} "</p><br />``` <br />
-* Higlight Note Template: ```<p style="text-align:center;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:center;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />``` <br />
+* Higlight Note Template: ```<p style="text-align:center;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:center;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />```
 
 ## 3.3 Centered, French Conventions
 <p align="center">Preview: <br /> <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Centered%20-%20French%20Convention.png" width=70% height=70%>
+
 * Title Note: ```<h1 style="text-align:center;">Choral Annotations<br/>{{date}}</h1><br />```
 * (Standalone) Note Template: ```<p style="text-align:left;">" WORRIED SEEKER: {{comment}} "</p><br />``` <br />
 * Higlight Note Template: ```<p style="text-align:center;">{{citation}}:<p style="text-align:left">{{highlight quotes='false'}}{{if comment}}<p style="text-align:center;">WORRIED SEEKER: <p style="text-align:right;">{{comment}}{{endif}}</p><br />``` <br />
 
 # 4. More Templates
 
-## 4.1 Mixted : Centered for names and left-right for speeches
-<p align="center"> Preview - without French Convention<br /><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20Mixted%20-%20No%20French.png" width=70% height=70%></p>
+## 4.1 Mixted : Centered for names and left-right for speeches (without french convention)
+<p align="center"> Preview:<br /><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20Mixted%20-%20No%20French.png" width=70% height=70%></p>
+
 * Title Note: ```<h1 style="text-align:center;">Choral Annotations<br/>{{date}}</h1><br />```
 * (Standalone) Note Template: ```<p style="text-align:center;">WORRIED SEEKER:<p style="text-align:right;">{{comment}}</p><br />``` <br />
-* Higlight Note Template: ```<p style="text-align:left;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:right;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />``` <br />
+* Higlight Note Template: ```<p style="text-align:left;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:right;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />```
 
 ## 4.2 Didascalia Workaround
-It is hardly possible to enter didascalias (precision about the speech "quietly", etc), however, it is possible to get an apromixation editing the (standalone) note template.
-Preview<br /><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20Left%20Left%20-%20Didascalies%20-%20French%20Convention.png" width=70% height=70%>
+It is hardly possible to enter didascalias (precision about the speech "quietly", etc), however, it is possible to get an apromixation editing the (standalone) note template.<br>
+<p align="center">Preview: <br /><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20Left%20Left%20-%20Didascalies%20-%20French%20Convention.png" width=70% height=70%></p>
 
 Limitations: if you insert your own personal comment on a sticky note, your name or the one you choose will not appear anymore.
 If that is somehow interesting for you, it has been done with the following templates:<br />
