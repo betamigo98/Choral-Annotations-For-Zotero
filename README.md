@@ -15,20 +15,20 @@
 ## <p align="center">...or just have some fun!
 
 # Why using Choral Annotations for Zotero ?
-* Engage with the world by projecting yourself in dialog with authors, publisher, or even date and other things! <br />
-* Use it as a didactic tool for writing practices!<br />
-* Engage in reflexions about authorship, identity, plagiarism, rhetorics, polyphonia, ventriloquism, and much more  !<br />
-* Discover the field of digital humanities, literacy, semantics!<br />
-* Or use it for creative work, scenic art and so on!<br />
-* There is also room for therapeutical application such as bibliotherapy, dramatherapy, and other discussions in the field of art therapy.<br />
-* Be surprise by your own anotations and make unexpecteded discoveries!<br />
+* Engage with the world by projecting yourself in dialog with authors, publisher, or any metadata field! <br />
+* Use it as a didactic tool for writing activities<br />
+* Enter reflections on authorship, identity, plagiarism, rhetorics, polyphonia, ventriloquism, and much more!<br />
+* Discover the fields of digital humanities, literacy, semantics!<br />
+* Use it for creative work, scenic arts and so on!<br />
+* There is also room for therapeutical applications such as bibliotherapy, dramatherapy, and other art therapies.<br />
+* Be surprised by your own anotations and make unexpecteded discoveries!<br />
 * Work in group, compile readings, print it, and be amazed by what comes out!<br />
 
 # Links
-* [Screenshots](
-* [Sample documents](
-* [All templates](
-* [Download APA7th choral style](
+* [Screenshots](https://github.com/betamigo98/PolyDevice/tree/main/Screenshots)
+* [Sample documents for closer view](https://github.com/betamigo98/PolyDevice/tree/main/Choral%20Rendering%20-%20Free%20Samples)
+* [All templates](https://github.com/betamigo98/PolyDevice/blob/main/TEMPLATES%20SCRIPTS.md)
+* [Download APA7th choral style](https://github.com/betamigo98/PolyDevice/tree/main/CSL%20Choral%20Styles)
 * [Library Group linked to that project](
 
 # More About Choral Annotations
@@ -58,7 +58,7 @@ Lanarès, J., Laperrouza, M., & Sylvestre, E. (2023). *Design pédagogique* (1re
 Rinck, F. (2006). Gestion de la polyphonie et figure de l’auteur dans les parties théoriques de Rapports de stage. *Lidil. Revue de linguistique et de didactique des langues*, *34*, Article 34. [https://doi.org/10.4000/lidil.23](https://doi.org/10.4000/lidil.23)
   
 # Extended Bibliography
-[See it online!](https...) there is a public library hosted by Zotero
+[See it online!](https...) There is a public library hosted by Zotero.
 
 # Roadmap and scenarios for Choral Annotations
 * Trials in various field and sector!
