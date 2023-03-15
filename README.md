@@ -2,7 +2,8 @@
 Make your annotations look like a screenplay!<br />
 
 # Quick overview
-Annotate your reading from Zotero reader...           | Create a Choral Annotation rendering in just one click!  |  Solarized Ocean           |
+Annotate your reading from Zotero reader...<br />           | Create a Choral Annotation rendering in just one click!  |  Solarized Ocean           |
+<img src="https://github.com/betamigo98/PolyDevice/blob/main/Screenshots/Zotero%20-%20Making%20Annotations.png" width=50% height=50%>
 :----------------------------------------------------:|:--------------------------------------------------------:|:-------------------------: |
 ![](https://...Dk.png)                              |  ![](https://...n.png)                               |  ![](https://.png) |
 
