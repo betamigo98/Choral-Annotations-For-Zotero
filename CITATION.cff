@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Favre"
+  given-names: "Théo"
+  orcid: "https://orcid.org/0009-0009-4121-3348"
+title: "Choral-Annotations-For-Zotero"
+version: 1.0.0
+date-released: 2023-03-16
+url: "https://github.com/betamigo98/Choral-Annotations-For-Zotero"
