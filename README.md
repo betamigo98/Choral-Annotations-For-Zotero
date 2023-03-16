@@ -26,8 +26,8 @@
   
 # Links
 * [Screenshots](https://github.com/betamigo98/PolyDevice/tree/main/Screenshots)
-* [Sample documents for closer view](https://github.com/betamigo98/PolyDevice/tree/main/Choral%20Rendering%20-%20Free%20Samples)
-* [All templates](https://github.com/betamigo98/PolyDevice/blob/main/TEMPLATES%20SCRIPTS.md)
+* [Sample documents for closer view](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/Choral%20Rendering%20-%20Samples)
+* [All templates](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md)
 * [Download APA7th choral style](https://github.com/betamigo98/PolyDevice/tree/main/CSL%20Choral%20Styles)
 * [Library Group linked to that project](https://www.zotero.org/search/type/group?q=Chorale%20Annotations%20Library)
 
