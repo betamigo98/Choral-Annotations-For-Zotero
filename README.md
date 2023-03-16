@@ -19,7 +19,7 @@
 * Use it for creative work, scenic arts or use it as a didactic tool for writing activities!<br />
 * There is also room for therapeutical applications such as bibliotherapy, dramatherapy, and other art therapies.<br />
 * Be surprised by your own anotations and make unexpecteded discoveries! Work in group, compile readings, print it, and be amazed by what comes out!<br />
-* By continuously asking <i>"Who is talking - and to Whom?"</i> choral annotations could contribute to sustain a culture that cares about responsible authorship and where call-ins and call-outs are maintained as ethical practices. In a so-called "post-truth era" where so-called "anthropos" are struggling against so-called "Fake News" with technologies trained by so-called "Chat-GPT3-trained artificial intelligence, that might be a proposition.
+* By continuously asking <i>"Who is talking - and to Whom?"</i> choral annotations could contribute to sustain a culture that cares about responsible authorship and where call-ins and call-outs are preserved as ethical practices. In a so-called "post-truth era" where so-called "anthropos" are struggling against so-called "Fake News" with technologies trained by so-called "Chat-GPT3-trained artificial intelligence, that might be a proposition.
   
 # Links
 * [Screenshots](https://github.com/betamigo98/PolyDevice/tree/main/Screenshots)
@@ -49,6 +49,7 @@ In any case, this project started from having fun, I hope you’ll have some too
 ## References
 Anscombre, J.-C. (2009). La comédie de la polyphonie et ses personnages. *Langue française*, *164*(4), 11-31. [https://doi.org/10.3917/lf.164.0011](https://doi.org/10.3917/lf.164.0011)<br />
 Beaude, B. (2021). Synchorisations réticulaires. En V. Schafer (Ed.), *Temps et temporalités du Web* (pp. 153-172). Presses universitaires de Paris Nanterre. [https://doi.org/10.4000/books.pupo.6133](https://doi.org/10.4000/books.pupo.6133)<br />
+<i>Calling In and Calling Out Guide<i>. (s. f.). Recuperado 16 de marzo de 2023, de [https://edib.harvard.edu/calling-and-calling-out-guide](https://edib.harvard.edu/calling-and-calling-out-guide)<br />
 Carel, M., & Ducrot, O. (2009). Mise au point sur la polyphonie. *Langue française*, *164*(4), 33-43. [https://doi.org/10.3917/lf.164.0033](https://doi.org/10.3917/lf.164.0033)<br />
 Clement, T. E., & Fischer, L. (2021). Audiated Annotation from the Middle Ages to the Open Web. *Digital Humanities Quarterly*, *015*(1).<br />
 Kalir, R., & Garcia, A. (2021). *Annotation*. The MIT Press.<br />
