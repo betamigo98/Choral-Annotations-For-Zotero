@@ -1,6 +1,6 @@
 # <p align="center"> Choral Annotions for Zotero
 # <p align="center"> Make your annotations look like a screenplay!<br />
-<p align="center"> <img src="https://github.com/betamigo98/PolyDevice/blob/main/Screenshots/Pdf%20-%20Centered%20-%20French%20Convention.png" width=72% height=75%><br />
+<p align="center"> <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20land%20(Mediana).png" width=72% height=75%><br />
 
 # <p align="center"> Overview:
 | <h3>Annotate your reading from Zotero reader...<h3> | ...and create a Choral Annotation rendering in two clicks...
