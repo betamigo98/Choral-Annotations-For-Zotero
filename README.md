@@ -25,10 +25,11 @@
 * Work in group, compile readings, print it, and be amazed by what comes out!<br />
   
 # Links
+* [I want that template I just saw above!](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#33-centered---french-convention)
 * [Screenshots](https://github.com/betamigo98/PolyDevice/tree/main/Screenshots)
 * [Sample documents for closer view](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/Choral%20Rendering%20-%20Samples)
 * [All templates](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md)
-* [Download APA7th choral style](https://github.com/betamigo98/PolyDevice/tree/main/CSL%20Choral%20Styles)
+* [Download APA7 Choral Style!](https://github.com/betamigo98/PolyDevice/tree/main/CSL%20Choral%20Styles)
 * [Library Group linked to that project](https://www.zotero.org/search/type/group?q=Chorale%20Annotations%20Library)
 
 # More About Choral Annotations
