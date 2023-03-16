@@ -62,5 +62,5 @@ Shmelev, S. (1998). Whose Knowledge, Whose nature? Biodiversity, Conservation, a
 [See it online!](https://www.zotero.org/search/type/group?q=Chorale%20Annotations%20Library) There is a public library hosted by Zotero.
 
 # Roadmap and scenarios for Choral Annotations
-* More tweaked CSL Styles for more possibilities! Make metadatas speak!
+* More tweaked CSL Styles for more possibilities! Make metadatas speak to you and them!
 * Trials in various activites from different fields and sectors
