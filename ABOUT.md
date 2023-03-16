@@ -23,5 +23,5 @@ When installed, the title given to the csl style will mark it apart from the oth
 * It has been framed as "a technology" so far due to a lack of better alternatives, but is a script for the most part.
 * Screenshot files are quite big to be displayed in github and should be reduced. You can see it anyway, or download it.
 
-<i>More credits and about crediting on [the public Library attached to that repo](https://www.zotero.org/search/type/group?q=Choral%20Annotations)</i>
+<i>More credits and about crediting on [the public Library attached to that repo](https://www.zotero.org/search/type/group?q=Choral%20Annotations%20Library)</i>
 
