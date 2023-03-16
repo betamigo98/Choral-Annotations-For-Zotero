@@ -13,7 +13,6 @@
 
 ## <p align="center">Perform your dialogs, reflect on the meaning of life, and challenge reality!<br />
 ## <p align="center">...or just have some fun!
-
 # Why using Choral Annotations for Zotero ?
 * Engage with the world by projecting yourself in dialog with authors, publisher, or any metadata field! <br />
 * Use it as a didactic tool for writing activities<br />
