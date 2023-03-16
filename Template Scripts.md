@@ -11,7 +11,7 @@ Below are all the templates scripts that has been edited so far: <br>
 * Each script has to be inserted in the three corresponding advanced preference fields in the Zotero desktop interface.
 * If in doubt, checking the screenshots is a good option, and you can also do some trials-and-errors to adjust to your specific preferences and need. There are also some [additional comments](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#5-additional-notes-and-help) and a [help section](https://github.com/betamigo98/Choral-Annotations-For-Zotero/edit/main/TEMPLATES%20SCRIPTS.md#6-troubleshooting-ajustments-customization) ath the bottom of this page.
 
-<img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Scripts%20For%20Templates%20(Centered)%20-%20With%20Screenshot.png" width=120% height=120%></p>
+<img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Scripts%20-%20Templates%20(Centered).png" width=120% height=120%></p>
 <p align="center"><i>Example of a full template script once edited in the advanced configuration pane - example with centered rendering templates</i><br>
 </p>
 
@@ -62,7 +62,7 @@ Depending on national and cultural traditions, norms and conventions, editorial 
 	
 ## 3.1 Left-Left, French Convention
 <p align="center"> Preview: <br>
-<img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20Left-Left%20French%20Convention.png" width=70% height=70%>
+<img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Left-Left%20-%20French%20Convention.png" width=70% height=70%>
 </p>
 
 * Title Note: ```<h1 style="text-align:left;">Choral Anotations<br/>{{date}}</h1><br />```
@@ -70,7 +70,7 @@ Depending on national and cultural traditions, norms and conventions, editorial 
 * Higlight Note Template: ```<p style="text-align:left;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:left;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />``` <br />
 
 ## 3.2 Left-Right - French Convention
-<p align="center">Preview: <br /> <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20Left%20Right%20-%20French%20Convention.png" width=70% height=70%)>
+<p align="center">Preview: <br /> <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Left-Right%20-%20French%20Convention.png" width=70% height=70%)>
 
 * Title Note: ```<h1 style="text-align:left;">Choral Anotations<br/>{{date}}</h1><br />```
 * (Standalone) Note Template: ```<p style="text-align:center;">" WORRIED SEEKER: {{comment}} "</p><br />``` <br />
@@ -86,7 +86,7 @@ Depending on national and cultural traditions, norms and conventions, editorial 
 # 4. More Templates
 
 ## 4.1 Mixted : Centered for names and left-right for speeches (without french convention)
-<p align="center"> Preview:<br /><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20Mixted%20-%20No%20French.png" width=70% height=70%></p>
+<p align="center"> Preview:<br /><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Mixted%20-%20No%20French%20Convention.png" width=70% height=70%></p>
 
 * Title Note: ```<h1 style="text-align:center;">Choral Annotations<br/>{{date}}</h1><br />```
 * (Standalone) Note Template: ```<p style="text-align:center;">WORRIED SEEKER:<p style="text-align:right;">{{comment}}</p><br />``` <br />
@@ -94,7 +94,7 @@ Depending on national and cultural traditions, norms and conventions, editorial 
 
 ## 4.2 Didascalia Workaround
 It is hardly possible to enter didascalias (precision about the speech "quietly", etc), however, it is possible to get an apromixation editing the (standalone) note template.<br>
-<p align="center">Preview: <br /><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20Left%20Left%20-%20Didascalies%20-%20French%20Convention.png" width=70% height=70%></p>
+<p align="center">Preview: <br /><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Left-Left%20-%20Didascalies%20-%20French%20Convention.png" width=70% height=70%></p>
 
 Limitations: if you insert your own personal comment on a sticky note, your name or the one you choose will not appear anymore.
 If that is somehow interesting for you, it has been done with the following templates:<br />
