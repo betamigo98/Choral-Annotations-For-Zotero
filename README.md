@@ -19,7 +19,7 @@
 * Use it for creative work, scenic arts or use it as a didactic tool for writing activities!<br />
 * There is also room for therapeutical applications such as bibliotherapy, dramatherapy, and other art therapies.<br />
 * Be surprised by your own anotations and make unexpecteded discoveries! Work in group, compile readings, print it, and be amazed by what comes out!<br />
-* By continuously asking <i>"Who is talking? ...and to Whom?"</i> choral annotations could contribute to sustain a culture that cares about responsible authorship and where call-ins and call-outs are maintained as being possible. In a so-called "post-truth era" where so-called "anthropos" are struggling against so-called "Fake News" with technologies trained by so-called "Chat-GPT3-trained artificial intelligence, that might be a proposition.
+* By continuously asking <i>"Who is talking - and to Whom?"</i> choral annotations could contribute to sustain a culture that cares about responsible authorship and where call-ins and call-outs are maintained as ethical practices. In a so-called "post-truth era" where so-called "anthropos" are struggling against so-called "Fake News" with technologies trained by so-called "Chat-GPT3-trained artificial intelligence, that might be a proposition.
   
 # Links
 * [I want that template I just saw above!](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#33-centered---french-convention)
