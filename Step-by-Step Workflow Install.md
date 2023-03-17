@@ -33,3 +33,6 @@ Adding a style should looks like this from Zotero Edition -> Preferences -> Cite
 
 * From here you could so some extra editing, add didascalias for example.
 * Export as pdf or any of your favorite format!
+<p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Centered%20-%20French%20Convention.png" width=60% height=61%>
+</p>
+
