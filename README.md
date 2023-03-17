@@ -1,4 +1,4 @@
-# <p align="center"> Choral Annotions for Zotero<
+# <p align="center"> Choral Annotions for Zotero
 # <p align="center"> Make your annotations look like a screenplay!
 <p align="center"> <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Centered%20-%20French%20Convention.png"<br /></p>
 
