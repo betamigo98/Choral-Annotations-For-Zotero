@@ -22,7 +22,11 @@ For other templates just repeat the steps [mutatis mutandis](https://en.wikipedi
 Adding a style should looks like this from Zotero Edition -> Preferences -> Cite: <br />
 <p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Zotero%20-%20Add%20Choral%20Style.png" width=66% height=30%></p>
 
-# 3. Finishing
+# 3. Highlight And Create Note From Annotations
+<p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Zotero%20-%20Making%20Annotations%20And%20Create%20Notes.png" width=81% height=90%></p>
+* see is also a see related page in [Zotero pages](https://www.zotero.org/blog/zotero-6/) if in doubt.
+
+# 4. Finishing
 * From your text editor (with Zotero plugin installed) add any of your note that has been formatted.<br>
 <p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/LibreOffice%20-%20Add%20Notes.png" width=60% height=61%>
 </p>
