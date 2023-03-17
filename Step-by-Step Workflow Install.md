@@ -1,4 +1,4 @@
-# <p align="center">Step-by-Step Install And Workflow</p>
+# <p align="center">Step-By-Step Install And Workflow</p>
 # 1. "Install" Formated Templates
 As html scripts, there is no formal installation in the conventional sense of software installation per se.<br />
 Activating the choral templates is made by text edition and basic copy-pasting.<br />
