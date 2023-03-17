@@ -157,4 +157,33 @@ CSL edition for yourself (remember [there are APA7 modified for chorale purpose 
 In any case there is lot of documentation avalaible for CSL edition. You could also open an issue in that repo, or ask help in Zotero forums too.<br />
 
 # Bonus: Template for tag rendering in Obsidian
-I also wrote a template that make use of tags in Zotero and nested tags in Obsidian. See scripts and screenshots from the [original post in Zotero forum](https://forums.zotero.org/discussion/99170/from-zotero-to-obsidian-a-tag-based-workflow-in-pictures#latest).
+I also wrote a template that make use of tags in Zotero and nested tags in Obsidian.<br>
+## Template To Add The Tags You Add For Each Of Your Highlights
+* Highlight and tag, then create a note formatted as "#hglt/<yourtag>" so Obsidian can render it as nested!
+* Of course you could add conditional so you got "#hgltY/<yourtag>" (if you set Y for yeloow in that example). Adjust to your needs!
+[img src](https://drive.google.com/file/d/1-V4DvYrpXnCaCYH-UY-rTUGyTSUF4tLV/view)
+	
+<img src="https://drive.google.com/file/d/1jj2WYz-17_SGwVJp22q7OXZF5lg2cfre/view">
+	
+
+''' 
+{{if comment}}<p>{{comment}}{{endif}}<blockquote><i>{{highlight}}</i></blockquote>{{citation}}{{if tags}}<br/>#hgh/{{tags : tags join=' #hgh/'}}{{endif}}
+'''
+
+## Template To Add The Tags You Add For Each Of Your Notes
+* Same pattern as described above for Notes
+<img src="https://drive.google.com/file/d/1xNQNz-XoSzWSRyMMUdQFXkQQ0CjzRTIN/view">
+<img src="https://drive.google.com/file/d/12x5CN5PTBD6uQPg6UcK11SJroGhuQlbn/view">
+
+'''<p><i>Note:{{comment}}</i>{{if tags}}<br/>#note/{{tags : tags join=' #note/'}}{{endif}}<br/>{{citation}}</p>
+'''
+
+See scripts and screenshots from the [original post in Zotero forum](https://forums.zotero.org/discussion/99170/from-zotero-to-obsidian-a-tag-based-workflow-in-pictures#latest).
+	
+# More Bonus : visual creativity with OneNote
+Do you think you could mimick Stephane Mallarmé 's work "un coup de dé jamais n'abolira le hasard?"<br>
+![](https://cdn.essentiels.bnf.fr/media/images/cache/cache/rc/uPCv9QQz/uploads/media/image/20220111152909000000_p111.jpg)<br>
+© Bibliothèque nationale de France Reproduced from [French National Library websote](https://essentiels.bnf.fr/fr/image/4cf885ab-033d-4ab5-923e-555fc91ce1ee-un-coup-des-jamais-nabolira-hasard-3)<br>
+
+Well, sort of. with Microsoft OneNote that would be posible. See the video below and judge by yourself.
+
