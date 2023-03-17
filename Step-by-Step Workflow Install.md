@@ -15,10 +15,11 @@ See the following picture that recaps all the template editing part (Centered-fo
 For other templates just repeat the steps [mutatis mutandis](https://en.wikipedia.org/wiki/Mutatis_mutandis).
 
 # 2. Install CSL Styles in Zotero
+* In some simple case, with for example only one author, you could use any style you want and then search for "(author%date%)", or whatever syntax related to the CSL Style you have chosen, and replace by "Author", or any term you like. However, for more complexe citations and compilation with more than one note, it will get nastier and the CSL Style should help.
 * You can download the files directly from the main page of this repository
 * Then [follow the normal procedure to install a style from a local file in Zotero preferences menu](https://www.zotero.org/support/styles).
 * You can also edit your own CSL style (follow the guideline from the same link mentionned above).<br />
-Adding a style should looks like this from Zotero Edition -> Preferences -> Cite <br /> :
+Adding a style should looks like this from Zotero Edition -> Preferences -> Cite: <br />
 <p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Zotero%20-%20Add%20Choral%20Style.png" width=66% height=30%></p>
 
 # 3. Finishing
@@ -27,4 +28,4 @@ Adding a style should looks like this from Zotero Edition -> Preferences -> Cite
 </p>
 
 * From here you could so some extra editing, add didascalias for example.
-* Export as pdf
+* Export as pdf or any of your favorite format!
