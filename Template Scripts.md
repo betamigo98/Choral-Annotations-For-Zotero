@@ -186,4 +186,4 @@ Do you think you could mimick Stephane Mallarmé 's work "un coup de dé jamais 
 © Bibliothèque nationale de France Reproduced from [French National Library websote](https://essentiels.bnf.fr/fr/image/4cf885ab-033d-4ab5-923e-555fc91ce1ee-un-coup-des-jamais-nabolira-hasard-3)<br>
 
 Well, sort of. with Microsoft OneNote that would be posible. See the video below and judge by yourself.
-
+Note: Currently you cannot rotate text from within OneNote.
