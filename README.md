@@ -1,6 +1,6 @@
-# <p align="center"> Choral Annotions for Zotero
-# <p align="center"> Make your annotations look like a screenplay!<br />
-<p align="center"> <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Centered%20-%20French%20Convention.png"<br />
+# <p align="center"> Choral Annotions for Zotero<
+# <p align="center"> Make your annotations look like a screenplay!
+<p align="center"> <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Centered%20-%20French%20Convention.png"<br /></p>
 
 # <p align="center"> Overview:
 | <h3>Annotate your reading from Zotero reader...<h3> | ...and create a Choral Annotation rendering in two clicks...
@@ -9,17 +9,17 @@
 
 ...add your notes in a word document... | ...and print out a beautiful file!
 |:---:|---|
-| <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/LibreOffice%20-%20Add%20Notes.png"> | <img src="https://github.com/betamigo98/PolyDevice/blob/main/Screenshots/Pdf%20-%20Centered%20-%20French%20Convention.png"> 
+| <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/LibreOffice%20-%20Add%20Notes.png"> | <img src="https://github.com/betamigo98/PolyDevice/blob/main/Screenshots/Pdf%20-%20Centered%20-%20French%20Convention.png">
 
 ## <p align="center">Perform your dialogs, reflect on the meaning of life, and challenge reality!<br />
-## <p align="center">...or just have some fun!
+## <p align="center">...or just have some fun while maintaining rigorous bibliografic references!
 # Why using Choral Annotations for Zotero ?
 * Engage with the world by projecting yourself in dialog with authors, publisher, and...metadata!<br />
 * Discover the fields of digital humanities, literacy, semantics! Enter in reflections on authorship, identity, plagiarism, rhetorics, polyphonia, ventriloquism, and much more!<br />
 * Use it for creative work, scenic arts or use it as a didactic tool for writing activities!<br />
 * There is also room for therapeutical applications such as bibliotherapy, dramatherapy, and other art therapies.<br />
 * Be surprised by your own anotations and make unexpecteded discoveries! Work in group, compile readings, print it, and be amazed by what comes out!<br />
-* By continuously asking <i>"Who is talking - and to Whom?"</i> choral annotations could contribute to sustain a culture that cares about responsible authorship and where call-ins and call-outs are preserved as ethical practices. In a so-called "post-truth era" where so-called "anthropos" are struggling against so-called "Fake News" with technologies trained by so-called "Chat-GPT3-trained artificial intelligence, that might be a proposition.
+* By continuously asking <i>"Who is talking - and to Whom?"</i> choral annotations could contribute to sustain a culture that cares about responsible authorship and where <i>call-ins</i> and <i>call-outs</i> are preserved as ethical practices. In a so-called "post-truth era" where so-called "anthropos" are struggling against so-called "Fake News" with technologies trained by so-called "Chat-GPT3-trained artificial intelligence", that might be a proposition.
   
 # Links
 * [Screenshots](https://github.com/betamigo98/PolyDevice/tree/main/Screenshots)
@@ -30,17 +30,17 @@
 * [I want that template I just saw above!](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#33-centered---french-convention)
 
 # More About Choral Annotations
-<p class="text-justify">The more technical I could describe is that this is no more than a couple of html line in three fields in Zotero preference pane. There is also a very short amount of macro editing in the CSV Style editor. The html lines are templates in the sense that they pre-format the annotations you made from Zotero reader pane. Last part of the formatting process pass through a word document and the use of CSV styles.</p>
+<p align="justify">The more technical I could describe is that this is no more than a couple of html line in three fields in Zotero preference pane. There is also a very short amount of macro editing in the CSV Style editor. The html lines are templates in the sense that they pre-format the annotations you made from Zotero reader pane. Last part of the formatting process pass through a word document and the use of CSV styles.
 
-<p class="text-justify">Is simulating a real conversation with author as they were right here in the very room we are as we read a grotesque idea or worst, a misleading representation that should not be followed at all?<br />
+<p align="justify">Is simulating a real conversation with author as they were right here in the very room we are as we read a grotesque idea or worst, a misleading representation that should not be followed at all?<br />
 Well, if it feels like this, it is actually a good sign that should proove the value of the choral annotations proposition.
 The choral conception of having a concrete discussion with real people here and now just like in daily interactions or a stage has been and still is discussed in semiotics. It refers to the concept of polyphonia (see Anscombre, 2009 for a general and presentation of core concept, also Carel & Ducrot, 2009). It also join what one could read as the trap of topology as it comes to tinking about space, as pointed out by Boris Beaude (2021). Central in his reflexion is the latin reference to the very word of "chora" - a public space (see §64 en ibid.) to maintain a critical view on our time. So there is more view than the first intuitive representation foremost mentioned, and it worth entering such discussions as it broadden one horizons not only toward many topics in humanities, but because it comes with fascinating activities and applications. Part of the decision making for the wording of <i>choral annotation</i> was in the intent to come closer to those reflexions, illustrate it, and also and mainly to make it lived and felt by the annotator, with attention given to the most possible number of layers at stake (technology, dependecies, authorship, time and space...) so that one could engage our contemporary times with critical depth. Be it from the field of semiotics, digital and environmantal humanities, sociales sciences, there many way to reflect on our practices of reading, annotating, writing, and expressing ourselves.</p>
 
-<p class="text-justify">Descriptions of annotating practices in medieval times had been reported as a promising example to help tackling contemporary challenges in culture conservation and management of metadatas (see Clement & Fischer, 2021). Annotations are also deeply studied as such, see for example a recent edition by the MIT press (Kalir &#38; Garcia, 2021).<br /></p>
+<p align="justify">Descriptions of annotating practices in medieval times had been reported as a promising example to help tackling contemporary challenges in culture conservation and management of metadatas (see Clement & Fischer, 2021). Annotations are also deeply studied as such, see for example a recent edition by the MIT press (Kalir &#38; Garcia, 2021).<br />
 
-<p class="text-justify">Not so long ago has been reported some of the struggles and the enlightment of the university students writing process. On the one hand there is a pledge to better dive in the field of literacy to make student critically approrpiate academics norms and expectations (Rinck, 2006). On the other hands, some experiments with annotations had been regarded as very positive from didactic teacher and investigador in (Kersh & Skalak, 2018). At the same time in the field of the digital humanities, there is still plenty of room for creativity, and traditional knowledge fronteers are continuously challenged in stimulating ways. Wether in between art and science, programming and theatre, litterature and scenic arts, narratives of innovating projects, experimental methods, studies resulting from long duration and large scale experiments, bibliotherapy, there must be a place for choral annotations in this world.</p>
+<p align="justify">Not so long ago has been reported some of the struggles and the enlightment of the university students writing process. On the one hand there is a pledge to better dive in the field of literacy to make student critically approrpiate academics norms and expectations (Rinck, 2006). On the other hands, some experiments with annotations had been regarded as very positive from didactic teacher and investigador in (Kersh & Skalak, 2018). At the same time in the field of the digital humanities, there is still plenty of room for creativity, and traditional knowledge fronteers are continuously challenged in stimulating ways. Wether in between art and science, programming and theatre, litterature and scenic arts, narratives of innovating projects, experimental methods, studies resulting from long duration and large scale experiments, bibliotherapy, there must be a place for choral annotations in this world.</p>
 
-<p class="text-justify">As it comes to pedagogy, the choral annotation process proposed here could be ubicated in both of the two categories "Interaction" and "Reflexivité" in the typology proposed by a team of researcher in Switzerland, letting room for a wider reflexion on pedagogy design and practices (Lanarès et al., 2023, see pp. 104 y 109 en particular).
+<p align="justify">As it comes to pedagogy, the choral annotation process proposed here could be ubicated in both of the two categories "Interaction" and "Reflexivité" in the typology proposed by a team of researcher in Switzerland, letting room for a wider reflexion on pedagogy design and practices (Lanarès et al., 2023, see pp. 104 y 109 en particular).
 <br >
   <br />
 <p align="center">These are some lines of work to be continued by whoever would find curiosity in it.<br />
@@ -63,4 +63,5 @@ Shmelev, S. (1998). Whose Knowledge, Whose nature? Biodiversity, Conservation, a
 
 # Roadmap and scenarios for Choral Annotations
 * More tweaked CSL Styles for more possibilities! Make metadatas speak to you and them!
-* Trials in various activites from different fields and sectors
+* Trials with various item type and more complex citations
+* Deal with the first public release and its related issues
