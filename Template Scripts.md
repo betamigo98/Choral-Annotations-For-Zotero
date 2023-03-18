@@ -138,6 +138,10 @@ If you just need to edit some of the colors, delete the correpsonding sections a
 {{endif}}
 ```
 
+See how it goes:<br>
+
+<img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Zotero%20-%20Rename%20Highlight%20Colors%20-%20View.png">
+
 # 5. Additional Notes And Help
 * You should easily retrieve the three templates fields by entering "template" in the advanced configuration search bar.
 They are: 1) Note title template ; 2) Note template (a.k.a. sticky note or standalone note) ; and 3) Highlight text template.<br>
