@@ -181,10 +181,12 @@ I also wrote a template that make use of tags in Zotero and nested tags in Obsid
 See scripts and screenshots from the [original post in Zotero forum](https://forums.zotero.org/discussion/99170/from-zotero-to-obsidian-a-tag-based-workflow-in-pictures#latest).
 	
 # More Bonus : visual creativity with OneNote
-
 Do you think you could mimick Stephane Mallarmé 's work "un coup de dé jamais n'abolira le hasard?"<br>
+<br>
 <img src="https://cdn.essentiels.bnf.fr/media/images/cache/cache/rc/uPCv9QQz/uploads/media/image/20220111152909000000_p111.jpg" width=60% height=60%><br> © Bibliothèque nationale de France Reproduced from [French National Library websote](https://essentiels.bnf.fr/fr/image/4cf885ab-033d-4ab5-923e-555fc91ce1ee-un-coup-des-jamais-nabolira-hasard-3)<br> 
 
-Well, sort of. with Microsoft OneNote that would be posible. See the video below and judge by yourself.
+Well, sort of. with Microsoft OneNote that would be posible.<br>
+See the video below and judge by yourself.<br>
+<br>
 <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Visual%20Creativity%20And%20Annotations%20(OneNote).gif"><br />
 
