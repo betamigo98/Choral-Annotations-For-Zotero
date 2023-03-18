@@ -157,27 +157,45 @@ CSL edition for yourself (remember [there are APA7 modified for chorale purpose 
 In any case there is lot of documentation avalaible for CSL edition. You could also open an issue in that repo, or ask help in Zotero forums too.<br />
 
 # Bonus: Template for tag rendering in Obsidian
-Original post in Zotero forum [see it for more context](https://forums.zotero.org/discussion/99170/from-zotero-to-obsidian-a-tag-based-workflow-in-pictures#latest).
-## Template That Insert The Tags You Added To Your Highlights
-* Highlight and tag, then create a note formatted as "#hglt/<yourtag>" so Obsidian can render it as nested!
-* Of course you could add conditional so you got "#hgltY/<yourtag>" (if you set Y for yellow in that example). Adjust to your needs!
+
+## A. Template That Insert The Tags You Added To Your Highlights
+
+Highlight your text, create note, add to tags to each of these items, then create a note formatted as "#hgh/<yourtag>" so Obsidian can render it as nested!
+
+Tagging Highlights look like this in Zotero:<br>
+<img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Bonus%20-%20Zotero%20Highlight.png">
 	
-<img src="https://drive.google.com/file/d/1jj2WYz-17_SGwVJp22q7OXZF5lg2cfre/view">
-[img src](https://drive.google.com/file/d/1-V4DvYrpXnCaCYH-UY-rTUGyTSUF4tLV/view)
-	
+See how it renders in Obsidian:<br>
+<img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Bonus%20-%20Obsidian%20Tagged-Highlight.png">
+
+Get the Template:<br>
 ```{{if comment}}<p>{{comment}}{{endif}}<blockquote><i>{{highlight}}</i></blockquote>{{citation}}{{if tags}}<br/>#hgh/{{tags : tags join=' #hgh/'}}{{endif}}```
 
-## Templates That Insert The Tags You Added To Your Notes
-* Same pattern as described above but for Notes (a.k.a. sticky notes).
-<img src="https://drive.google.com/file/d/1xNQNz-XoSzWSRyMMUdQFXkQQ0CjzRTIN/view">
-<img src="https://drive.google.com/file/d/12x5CN5PTBD6uQPg6UcK11SJroGhuQlbn/view">
-
-```<p><i>Note:{{comment}}</i>{{if tags}}<br/>#note/{{tags : tags join=' #note/'}}{{endif}}<br/>{{citation}}</p>```
+## B. Templates That Insert The Tags You Added To Your Notes
 	
+Tagging your (sticky) notes look like this in Zotero:<br>
+<img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Bonus%20-%20Zotero%20Note.png">
+
+See how it render in Obsidian: <br> <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Bonus%20-%20Obsidian%20-%20Tagged%20Note.png">
+
+Note that the other tags you did on your Obsidian appear diferently:<br>
+<img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Bonus%20-%20Obsidian%20-%20Other%20Tags%20.png"><br>
+
+Get the template:<br>
+```<p><i>Note:{{comment}}</i>{{if tags}}<br/>#note/{{tags : tags join=' #note/'}}{{endif}}<br/>{{citation}}</p>```<br>
+<i>Note: same pattern as described above but for Notes (a.k.a. sticky notes).</i>
+
+## C. Wrap up and Outlook
+| <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Bonus%20-%20Zotero%20Full%20Preview.png"> | <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Bonus%20-%20Obsidian%20-%20Full%20Preview.png">
+|:---:|:---
+	
+See also: [Original post in Zotero forum](https://forums.zotero.org/discussion/99170/from-zotero-to-obsidian-a-tag-based-workflow-in-pictures#latest).<br>
+<i>Note: you could add conditionals on colors so you got "#hgltY/<yourtag>" for yellow highlight for example. That template might come in the future.</i>
+
 # More Bonus : visual creativity with OneNote
-Do you think you could mimick Stephane Mallarmé 's work "un coup de dé jamais n'abolira le hasard?"<br>
+Do you think you could mimick Stephane Mallarmé 's work "Un coup de dé jamais n'abolira le hasard?"<br>
 <br>
-<img src="https://cdn.essentiels.bnf.fr/media/images/cache/cache/rc/uPCv9QQz/uploads/media/image/20220111152909000000_p111.jpg" width=54% height=54%><br> © Bibliothèque nationale de France Reproduced from [French National Library websote](https://essentiels.bnf.fr/fr/image/4cf885ab-033d-4ab5-923e-555fc91ce1ee-un-coup-des-jamais-nabolira-hasard-3)<br> 
+<img src="https://cdn.essentiels.bnf.fr/media/images/cache/cache/rc/uPCv9QQz/uploads/media/image/20220111152909000000_p111.jpg" width=54% height=54%><br> © Bibliothèque nationale de France taken from [French National Library websote](https://essentiels.bnf.fr/fr/image/4cf885ab-033d-4ab5-923e-555fc91ce1ee-un-coup-des-jamais-nabolira-hasard-3)<br> 
 
 Well, sort of. with Microsoft OneNote that would be posible.<br>
 See the video below and judge by yourself.<br>
