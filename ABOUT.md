@@ -5,7 +5,9 @@ It is a set of short html scripts at its core and depends on Zotero - in particu
 # Templates Proposed In This Repo
 Templates have been edited from the default template version in [Zotero](https://www.zotero.org/about/) (version 6 or above). [See default templates on Zotero documentation pages](https://www.zotero.org/support/note_templates).
 # CSL Styles Files In This Repo
-CSL styles proposed in this repo have been edited with the visual editor from [CitationStyle.org](https://editor.citationstyles.org/visualEditor/).<br> The APA7th style has been choosen because it is popular and because it was the first style proposed for editing. APA7th credits @ Brenton M. Wiernik (zotero@wiernik.org) Creative Commons Attribution-ShareAlike 3.0 License.<br>
+CSL styles proposed in this repo have been edited with the visual editor from [CitationStyle.org](https://editor.citationstyles.org/visualEditor/).<br>
+The APA7th style has been choosen because it is popular and because it was the first style proposed for editing. APA7th credits @ Brenton M. Wiernik (zotero@wiernik.org) Creative Commons Attribution-ShareAlike 3.0 License.<br>
+APA7 has only been modified on the inline citation side. For all styles parentesis habe been stripped. Depending on the variations, the delimiter could have changed to fron ","or ";" to "and" or "&", and the date or the locator could have been deleted. All choral styles have been checked using the [CSL Style and Validator](https://validator.citationstyles.org/).
   
 CSL goes for Citation Style Language. See more about it from [the CSL project homepage](https://citationstyles.org/) and more about current challenges with reference managers and metadata [here](https://commonmeta.org/use-cases).
   
