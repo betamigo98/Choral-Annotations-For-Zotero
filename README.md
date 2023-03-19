@@ -18,13 +18,13 @@
 * Discover the fields of digital humanities, literacy, semantics! Enter in reflections on authorship, identity, plagiarism, rhetorics, polyphonia, ventriloquism, and much more!<br />
 * Use it for creative work and scenic arts! Work in group, compile readings, print it, and be amazed by what comes out! You'll be surprised and you'll make unexpecteded discoveries!
 * There is also room for therapeutical applications such as bibliotherapy, dramatherapy, and other art therapies.<br />
-* Use it as a didactic tool for writing activities! By continuously asking <i>"Who is talking - in which tone and to whom? "</i> choral annotations could contribute to sustain a culture that cares about responsible authorship and where <i>call-ins</i> and <i>call-outs</i> are preserved as ethical practices. In a so-called "post-truth era" where so-called "anthropos" are struggling against so-called "Fake News" with technologies trained by so-called "Chat-GPT3-trained artificial intelligence", that might be a proposition.<br />
+* Use it as a didactic tool for writing activities! By continuously asking <i>" Who is talking - in which tone and to whom? "</i> choral annotations could contribute to sustain a culture that cares about responsible authorship and where <i>call-ins</i> and <i>call-outs</i> are preserved as ethical practices. In a so-called "post-truth era" where so-called "anthropos" are struggling against so-called "fake news" with technologies trained by so-called "Chat-GPT3-trained artificial intelligence", that might be a proposition.<br />
   
 # Links
 * [Screenshots](https://github.com/betamigo98/PolyDevice/tree/main/Screenshots)
 * [Sample documents for closer view](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/Choral%20Rendering%20-%20Samples)
-* [All templates](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md)
-* [Download APA7 Choral Style!](https://github.com/betamigo98/PolyDevice/tree/main/CSL%20Choral%20Styles)
+* [All templates](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#template-scripts)
+* [Download APA7 Choral Styles](https://github.com/betamigo98/PolyDevice/tree/main/CSL%20Choral%20Styles)
 * [Library Group linked to that project](https://www.zotero.org/search/type/group?q=Chorale%20Annotations%20Library)
 * [I want that template I just saw above!](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#33-centered---french-convention)
 
