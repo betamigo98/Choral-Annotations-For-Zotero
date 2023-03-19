@@ -4,11 +4,11 @@
 <br>
 Below are all the templates scripts that has been edited so far: <br>
 
-1. centered format with couple of variations on spacement. See [section 1](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#1-centered-formatted-templates)
-2. right-left format with also variations on spacement. See [section 2](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#2-left-right-formatted-templates)
-3. left-right formats, left-left format, had been inserted in [section 3](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#3-other-templates---with-previews) and [section 4](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#4-more-templates) gives some extra templates
-4. highlight colors mapping to any text of your choice is in [section 4.3](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#43-using-highlight-colors)
-5. there is also an attempt to integrate didascalias in [section 4.2](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#42-didascalia-workaround)
+1. centered format with couple of variations on spacement. See [section 1](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#1-centered-formatted-templates).
+2. right-left format with also variations on spacement. See [section 2](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#2-left-right-formatted-templates).
+3. left-right formats, left-left format, had been inserted in [section 3](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#3-other-templates---with-previews) and [section 4](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#4-more-templates) gives some extra templates.
+4. highlight colors mapping to any text of your choice is in [section 4.3](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#43-using-highlight-colors).
+5. there is also an attempt to integrate didascalias in [section 4.2](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#42-didascalia-workaround).
 
 * Default name for comentator is "WORRIED SEEKER". You'll have to change it manually or by search and replace.<br />
 * Special characters wrapping the dialogs ```" "" " ";" ":" ";" "-" ";"``` and letter capitalization could be edited both from within the template syntax and the CSV style editor.
@@ -101,40 +101,7 @@ Depending on national and cultural traditions, norms and conventions, editorial 
 * (Standalone) Note Template: ```<p style="text-align:center;">WORRIED SEEKER:<p style="text-align:right;">{{comment}}</p><br />``` <br />
 * Higlight Note Template: ```<p style="text-align:left;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:right;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />```
 
-## 4.2 Didascalia Workaround
-### with notes (sticky notes)
-It is hardly possible to enter didascalias (precision about the speech "quietly", etc), however, it is possible to get an apromixation editing the (standalone) note template.<br>
-<p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Left-Left%20-%20Didascalies%20-%20French%20Convention.png" width=65% height=70%></p>
-
-Limitations: if you insert your own personal comment on a sticky note, your name or the one you choose will not appear anymore (and you will also loose the possibility to use the note for your own monolog, comment, etc).
-If that is somehow interesting for you, it has been done with the following templates:<br />
-* Title Note: ```<h1 style="text-align:center;">Choral Anotations<br/>{{date}}</h1><br />```
-* (Standalone) Note Template: ```<p style="text-align:left;">{{comment}}:</p>``` <br />
-* Higlight Note Template: ```<p style="text-align:left;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:left;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />``` <br />
-
-### with tags
-You could use tag to write didascalias and stage directions. However, it will not be possible to diferentiate between you and the author(s). You could place it either before the authors speech or your speech.It is a similar problem as described above with notes.<br>
-* Case for tags are didasclaia for the authors: ```<p>WORRIED SEEKER <i>({{tags}}):</i><br />{{comment}} {{highlight}} {{citation}}</p>```
-* For the comentator (just switch variables positions): ```<p>{{tags}} {{citation}} {{highlight}} WORRIED SEEKER {{comment}} </p>```
-
-### with tags and colors
-Now tags could be only place at one place in the template, so you could only make didascalia for one side of the speakers.<br>
-But if you use highlight colors to make it correspond to a set of didascalia of your choice (quietly, loud, etc), you could work your way.<br>
-Continuing the above example: 
-* Let blue the color for "quietly"
-* Highlight for author didascalias ; tags for comentator - you didascalias
-* Will render every tag as didasclaia so better use it before starting to read and use a set of tag specific for that case (do not mix it with "normal" usecase).
-```
-{{if color =='#2ea8e5'}}
-       <p>{{citation}} <i>(quiet):</i><br /> {{highlight}}<br />{{if tags}}WORRIED SEEKER<i>({{tags}}):</i><br />{{comment}}{{endif}}</p>	   
-{{else}}
-       <p>{{tags}} {{citation}} {{highlight}} WORRIED SEEKER {{comment}} </p>
-{{endif}}
-```
-<br>
-<br>
-
-## 4.3 Using highlight colors
+## 4.2 Using highlight colors
 Systematic users profile might have a very welled organized color system management that they manage to maintain all along their workflow.
 The following template propose to make each color correspond to a piece of text.
 Change the text pattern below for any text you want i.e. example, method argument, or importance1 importance2 for example.
@@ -174,7 +141,65 @@ If you just need to edit some of the colors, delete the correpsonding sections a
 width=72% height=113%>
 
 <p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Zotero%20-%20Rename%20Highlight%20Colors%20-%20Showed.png" width=72% height=113%><br />
-<p align="center"><i>When "show color highlights" is ticked on the note pane"</i>
+<p align="center"><i>When "show color highlights" is ticked on the note pane"</i></p>
+<br>
+
+## 4.2 Didascalia Workaround
+How to integrate didascalia (a.k.a. stage directions) and a metanarrative voice at the same time?<br>
+Last section propose to do that. The two sections before are building blocks to understand or use it as such for any reason.
+Two important roles: the author(s) i.e. that will appear in the bibliography ; the annotator or comentator, i.e. you.
+
+### with notes (sticky notes)
+It is hardly possible to enter didascalias (precision about the speech "quietly", etc), however, it is possible to get an apromixation editing the (standalone) note template.<br>
+<p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Left-Left%20-%20Didascalies%20-%20French%20Convention.png" width=65% height=70%></p>
+
+Limitations: if you insert your own personal comment on a sticky note, your name or the one you choose will not appear anymore (and you will also loose the possibility to use the note for your own monolog, comment, etc).
+If that is somehow interesting for you, it has been done with the following templates:<br />
+* Title Note: ```<h1 style="text-align:center;">Choral Anotations<br/>{{date}}</h1><br />```
+* (Standalone) Note Template: ```<p style="text-align:left;">{{comment}}:</p>``` <br />
+* Higlight Note Template: ```<p style="text-align:left;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:left;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />``` <br />
+
+### with tags
+You could use tag to write didascalias and stage directions. However, it will not be possible to diferentiate between you and the author(s). You could place it either before the authors speech or your speech.It is a similar problem as described above with notes.<br>
+* Case for tags are didascalias for the authors: ```<p>WORRIED SEEKER <i>({{tags}}):</i><br />{{comment}} {{highlight}} {{citation}}</p>```
+* For the comentator/annotator (just switch variables positions): ```<p>{{tags}} {{citation}} {{highlight}} WORRIED SEEKER {{comment}} </p>```
+
+### with colors
+* didascalia <i>quietly</i> in blue highlight on the author side: 
+```{{if color =='#2ea8e5'}}
+       <p>{{citation}} <i>(quiet):</i><br /> {{highlight}}<br />{{if comment}}WORRIED SEEKER<br />{{comment}}{{endif}}</p>	   
+{{else}}
+       <p>{{citation}}<br /> {{highlight}}<br /> WORRIED SEEKER<br />{{comment}} </p>
+{{endif}}
+```
+* didascalia <i>quietly</i> in blue highlight on the annotator side:
+```{{if color =='#2ea8e5'}}
+       <p>{{citation}}<br />{{highlight}}<br />{{if comment}}WORRIED SEEKER<i>quietly</i><br />{{comment}}{{endif}}</p>	   
+{{else}}
+       <p>{{citation}}<br />{{highlight}}<br /> WORRIED SEEKER<br />{{comment}} </p>
+{{endif}}
+```
+
+### with tags and colors
+As you could assign tags and highlights only to either one or the other side of the speakers (auhtors and annotators), you might be interested in using both so you could control both sides.<br>
+You will have to choose how to make tags and colors match the author and the comentator.<br>
+Here the distribution will be as follow:
+* Discalia on the author(s) (citation) side: use highlight
+* Didascalia on the anotator a.k.a. comentator (your) side: use tags
+* Metanarrative: use sticky Notes
+<i>Such distribution limits didascalias from the authors side to the number of highlight colors avalaible (currently 9).</i>
+
+Continuing the above example: 
+* Let blue the highlight color for "quietly"
+* Highlights aure for author the author side
+* tags are for the comentator side. <i> This will render every tag in didascalia format.</i>
+```
+{{if color =='#2ea8e5'}}
+       <p>{{citation}} <i>(quiet):</i><br /> {{highlight}}<br />{{if tags}}WORRIED SEEKER<i>({{tags}}):</i><br />{{comment}}{{endif}}</p>	   
+{{else}}
+       <p>{{tags}} {{citation}} {{highlight}} WORRIED SEEKER {{comment}} </p>
+{{endif}}
+```
 <br>
 <br>
 <div align="center">	
@@ -199,7 +224,8 @@ They are: 1) Note title template ; 2) Note template (a.k.a. sticky note or stand
 * Double brackets, dashes and spaces for the so called "French convention" in the section above is also managed from the template syntax (it could have been and it is still possible to manage that from the CSL style instead of the template).
 * Try to variate authorship: set the publisher, the location, or even a date or any ohter metada in the role of the "author" (or "speaker" "actor" "performer" if you wish).
 * See [screenshots](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/Screenshots) and [sample documents](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/Choral%20Rendering%20-%20Samples) if you want to see more.
-
+<br>
+<br>
 # 6. Troubleshooting, Ajustments, Customization
 Remember that there are two components involved for a full choral rendering: the templates from Zotero and the CSL Styles. The CSL settings only applies for the author side, not to the comentator side ("your" side). So it has to be checked carefully that it does not result in double use of brackets, dashes, spaces, and ":".<br />
 Once the template editor in Zotero is opened, it is quite easy to make some trials-and-errors from Zotero Reader switching from one window to the other.
@@ -212,11 +238,13 @@ In any case there is lot of documentation avalaible for CSL edition. You could a
 
 <div align="center">
   <center><h1>Extra: Template for tag rendering in Obsidian</h1></center>
+	<br>
 <div align="center">
   <center><h2>A. Template That Insert The Tags You Added To Your Highlights</h1></center>
 </div>
 <p align="center">Highlight your text, create note, add to tags to each of these items, then create a note formatted as "#hgh/<yourtag>" so Obsidian can render it as nested!
-
+<br>
+<br>
 <p align="center">Tagging Highlights look like this in Zotero:<br>
 <p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Bonus%20-%20Zotero%20Highlight.png" width=72% height=60%>
 	
@@ -226,7 +254,8 @@ In any case there is lot of documentation avalaible for CSL edition. You could a
 <p align="center">Get the Template:<br>
 
 ```{{if comment}}<p>{{comment}}{{endif}}<blockquote><i>{{highlight}}</i></blockquote>{{citation}}{{if tags}}<br/>#hgh/{{tags : tags join=' #hgh/'}}{{endif}}```
-
+<br>
+<br>
 ## B. Templates That Insert The Tags You Added To Your Notes
 	
 <p align="center">Tagging your (sticky) notes look like this in Zotero:<br>
