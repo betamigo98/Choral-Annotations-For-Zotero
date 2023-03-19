@@ -10,7 +10,7 @@ To get a first look of what you can do with the choral templates, below is the s
 - If you feel in doubt do a proper [backup of your Zotero data](https://www.zotero.org/support/zotero_data#backing_up_your_zotero_data) before proceeding.
 
 ## Steps to reproduce
-1. Start by copy the [centered highlight template](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/TEMPLATES%20SCRIPTS.md#111-base-templates) in its thighest form and paste it in the templateHighlight field from avacned preference pane. Let the two other templates (title and note) and the csl style import for another moment.
+1. Start by copying the [centered highlight template](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/TEMPLATES%20SCRIPTS.md#111-base-templates) in its thighest form and paste it in the highlight template field from advanced preferences pane in Zotero. Let the two other templates (title and note) and the csl style import for another moment.
 2. Follow your usual routine of reading and note taking.
 3. Add your annotations to a note from the right-hand pane menu (top-right button). Either one-by-one (you will have to create a note beforehand), either all at once by right-clicking in the right-hand pane and choose "create note from annotations".<br>
 <i> For a better effect and surprise, export all your anntations at once - click "[create note from annotation button](https://github.com/betamigo98/PolyDevice/blob/main/Screenshots/Libre%20Office%20-%20Add%20Notes.png)" in the top-right-of the right-hand pane in the reader </i>.
