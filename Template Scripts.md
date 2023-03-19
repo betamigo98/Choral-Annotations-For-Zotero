@@ -177,6 +177,18 @@ width=72% height=113%>
 <p align="center"><i>When "show color highlights" is ticked on the note pane"</i>
 <br>
 <br>
+<div align="center">	
+	<h1>Bonus : visual creativity with OneNote</h1>
+<p align="center"><h3>Do you think you could use your annotations to mimick Stephane Mallarmé 's work<br />
+	<i>"Un coup de dé jamais n'abolira le hasard?"</i></h3><br>
+<p align="center"><img src="https://cdn.essentiels.bnf.fr/media/images/cache/cache/rc/uPCv9QQz/uploads/media/image/20220111152909000000_p111.jpg" width=52% height=54%><br><i>© Bibliothèque nationale de France taken from <a href="https://essentiels.bnf.fr/fr/image/4cf885ab-033d-4ab5-923e-555fc91ce1ee-un-coup-des-jamais-nabolira-hasard-3)">French National Library website</ a href></i>.
+	<br>
+	<br>
+
+<p align="center">...well, sort of. With Microsoft OneNote you can reach that kind of results:<br>
+<p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Visual%20Creativity%20And%20Annotations%20(OneNote).gif">
+</div>
+<br>
 
 # 5. Additional Notes And Help
 * You should easily retrieve the three templates fields by entering "template" in the advanced configuration search bar.
@@ -187,8 +199,6 @@ They are: 1) Note title template ; 2) Note template (a.k.a. sticky note or stand
 * Double brackets, dashes and spaces for the so called "French convention" in the section above is also managed from the template syntax (it could have been and it is still possible to manage that from the CSL style instead of the template).
 * Try to variate authorship: set the publisher, the location, or even a date or any ohter metada in the role of the "author" (or "speaker" "actor" "performer" if you wish).
 * See [screenshots](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/Screenshots) and [sample documents](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/Choral%20Rendering%20-%20Samples) if you want to see more.
-<br>
-<br>
 
 # 6. Troubleshooting, Ajustments, Customization
 Remember that there are two components involved for a full choral rendering: the templates from Zotero and the CSL Styles. The CSL settings only applies for the author side, not to the comentator side ("your" side). So it has to be checked carefully that it does not result in double use of brackets, dashes, spaces, and ":".<br />
@@ -201,7 +211,7 @@ In any case there is lot of documentation avalaible for CSL edition. You could a
 <br>
 
 <div align="center">
-  <center><h1>Bonus: Template for tag rendering in Obsidian</h1></center>
+  <center><h1>Extra: Template for tag rendering in Obsidian</h1></center>
 <div align="center">
   <center><h2>A. Template That Insert The Tags You Added To Your Highlights</h1></center>
 </div>
@@ -240,22 +250,16 @@ In any case there is lot of documentation avalaible for CSL edition. You could a
 	
 	
 <p align="center"><a href="https://forums.zotero.org/discussion/99170/from-zotero-to-obsidian-a-tag-based-workflow-in-pictures#latest"> See also the original post in Zotero forum</a href>.<br>
-<i>Note: you could add conditionals on colors so you got "#hgltY/<yourtag>" for yellow highlight for example. That template might come in the future.</i>
-	<br>
 <br>
 	</div>
 	
-# More Bonus with Obsidian
-## Make tags match a color and give you the option to nest by starting highlight comment with "/"
-1. Use of '#' for color conditionnal will render clickable tags in Obsidian as normally expected
-2. Start a comment by "/" and nest as much as it makes sense to you (and as much as obsdian allow it)
-
+# More Extra with Obsidian
+## Nest tag by starting highlight comments with a forward slash "/"
 Take this example: 
-1. all yellow highlights means "Method"
-2. you might or not narrow it down to qualitative metod and quantitative method
-3. quantiative method narrows down to linear regression and no-linear regression
+* all yellow highlights means "Method"
+	* you would like to narrow it down to qualitative methods and quantitative methods
+		* quantiative methods narrow down to linear regression and no-linear regression methods
 
-with such template: 
 ```
 {{if color =='#ffd400'}}
 	<p>{{tags}}#METHOD{{comment}} {{highlight quotes='false'}} {{citation}}</p>
@@ -264,23 +268,12 @@ with such template:
 {{endif}}
 ```
 
-See that every highlight will sort out with "#Method" as a prefix. So typing /quantitative/nolinear will sort our #method/quantitative/nolinear.
+With such template every highlight will sort out with "#Method" as a prefix. So typing /quantitative/nolinear in the highlight comment section will sort out #method/quantitative/nolinear. Export it on obsidian and voilà!
 
-### why use it?
+### Why using it?
 Depending on each one's profile and preference
-* could reduce some click 
-* nested tag could bring more precise information
+* could reduce some click in your workflow in comparison to add tags
+* nested tag could bring more precise information than with tags
 * give it a unix-terminal feel starting your comment by the sign "/"
-* you can add anything after the nest (of course you don't need to nest everytime)
-
-<div align="center">	
-	<h1>More Bonus : visual creativity with OneNote</h1>
-<p align="center"><h3>Do you think you could use your annotations to mimick Stephane Mallarmé 's work<br />
-<i>"Un coup de dé jamais n'abolira le hasard?"</h3><br>
-<p align="center"><img src="https://cdn.essentiels.bnf.fr/media/images/cache/cache/rc/uPCv9QQz/uploads/media/image/20220111152909000000_p111.jpg" width=52% height=54%><br><i>© Bibliothèque nationale de France taken from <a href="https://essentiels.bnf.fr/fr/image/4cf885ab-033d-4ab5-923e-555fc91ce1ee-un-coup-des-jamais-nabolira-hasard-3)">French National Library website</ a href></i>.
-	<br>
-	<br>
-
-<p align="center">...well, sort of. With Microsoft OneNote you can reach that kind of results:<br>
-<p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Visual%20Creativity%20And%20Annotations%20(OneNote).gif">
-</div>
+* you can add anything after the nest (you don't need to nest everytime)<br>
+<i>Note that you could also create nested friendly tags directly from Zotero. Just add forward slashes when you create a tag.</i>
