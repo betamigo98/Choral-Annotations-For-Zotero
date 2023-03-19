@@ -15,7 +15,7 @@ To get a first look of what you can do with the choral templates, below is the s
 Let the two other templates (title and note) and the csl style import for another moment.
 3. Follow your usual routine of reading and note taking.
 4. Add your annotations to a note from the right-hand pane menu (top-right button). Either one-by-one (you will have to create a note beforehand), either all at once by right-clicking in the right-hand pane and choose "create note from annotations".<br>
-<i> For a better effect and surprise, export all your annotations at once - click "[create note from annotation button (https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Zotero%20-%20Making%20Annotations%20And%20Create%20Notes.png)" in the top-right-of the right-hand pane in the reader </i>.
+<i> For a better effect and surprise, export all your annotations at once - click "[create note from annotation button](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Zotero%20-%20Making%20Annotations%20And%20Create%20Notes.png)" in the top-right-of the right-hand pane in the reader </i>.
 
     That's it!
 
