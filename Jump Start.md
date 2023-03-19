@@ -19,7 +19,7 @@ To get a first look of what you can do with the choral templates, below is the s
 
 Now hopefully you should have a much better idea of the end result of a proper edition.<br>
 
-What will remain for a propper finish is to strap out the parentesis wrapping the author-date. The CST Style will do that from the text editor and to decide if you want to put the "" and the eventual dashes. And where to put it.<br>
+What will remain for a propper finish is to strap out the parentesis wrapping the author-date. The CST Style will do that from the text editor and to decide if you want to put the double brackets ```" "``` and the eventual dashes. And where to put it.<br>
 
 ## Give it a proper finish
 * If you feel ready for it, check the [detailed workflow section](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Step-by-Step%20Workflow%20Install.md) to finish editing your chorale annotations in your text editor.<br>
