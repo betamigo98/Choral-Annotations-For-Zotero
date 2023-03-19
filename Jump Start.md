@@ -10,10 +10,12 @@ To get a first look of what you can do with the choral templates, below is the s
 - If you feel in doubt do a proper [backup of your Zotero data](https://www.zotero.org/support/zotero_data#backing_up_your_zotero_data) before proceeding.
 
 ## Steps to reproduce
-1. Start by copying the [centered highlight template](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/TEMPLATES%20SCRIPTS.md#111-base-templates) in its thighest form and paste it in the highlight template field from advanced preferences pane in Zotero. Let the two other templates (title and note) and the csl style import for another moment.
-2. Follow your usual routine of reading and note taking.
-3. Add your annotations to a note from the right-hand pane menu (top-right button). Either one-by-one (you will have to create a note beforehand), either all at once by right-clicking in the right-hand pane and choose "create note from annotations".<br>
-<i> For a better effect and surprise, export all your anntations at once - click "[create note from annotation button](https://github.com/betamigo98/PolyDevice/blob/main/Screenshots/Libre%20Office%20-%20Add%20Notes.png)" in the top-right-of the right-hand pane in the reader </i>.
+1. Start by copying the [centered highlight template](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#112-tighter-form) in its thighest form and paste it in the highlight template field from advanced preferences pane in Zotero.<br>
+```<p style="text-align:center;">{{citation}}<br /> {{highlight}}</p>{{if comment}}<p style="text-align:center;">WORRIED SEEKER<br />”{{comment}}”{{endif}}</p>```<br>
+Let the two other templates (title and note) and the csl style import for another moment.
+3. Follow your usual routine of reading and note taking.
+4. Add your annotations to a note from the right-hand pane menu (top-right button). Either one-by-one (you will have to create a note beforehand), either all at once by right-clicking in the right-hand pane and choose "create note from annotations".<br>
+<i> For a better effect and surprise, export all your annotations at once - click "[create note from annotation button](https://github.com/betamigo98/PolyDevice/blob/main/Screenshots/Libre%20Office%20-%20Add%20Notes.png)" in the top-right-of the right-hand pane in the reader </i>.
 
     That's it!
 
@@ -22,6 +24,6 @@ Now hopefully you should have a much better idea of the end result of a proper e
 What will remain for a propper finish is to strap out the parentesis wrapping the author-date. The CST Style will do that from the text editor and to decide if you want to put the double brackets ```" "``` and the eventual dashes. And where to put it.<br>
 
 ## Give it a proper finish
-* If you feel ready for it, check the [detailed workflow section](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Step-by-Step%20Workflow%20Install.md) to finish editing your chorale annotations in your text editor.<br>
-* If you feel like in doubt, you might better have a look to the avalaible [screenshots](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/Screenshots) or the [sample documents](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/Choral%20Rendering%20-%20Free%20Samples) to get an idea of what the templates can do. There is also more previews on the [Readme page](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/README.md) and in [section 3 from the template scripts document](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#3-other-templates---with-previews).
+* If you feel ready for it, check the [detailed workflow section](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Step-by-Step%20Install%20and%20Workflow.md#step-by-step-install-and-workflow) to finish editing your chorale annotations in your text editor.<br>
+* If you feel like in doubt, you might better have a look to the avalaible [screenshots](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/Screenshots) or the [sample documents](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/Choral%20Rendering%20-%20Samples) to get an idea of what the templates can do. There is also more previews on the [Readme page](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/README.md) and in [section 3 from the template scripts document](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#3-other-templates---with-previews).
 * Of course you could also try with the left-right format or [any other template](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#template-scripts). The rationale of this jump start was that the centered format is slighlty more visually striking than the others.<br>
