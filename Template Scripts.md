@@ -202,8 +202,6 @@ In any case there is lot of documentation avalaible for CSL edition. You could a
 
 <div align="center">
   <center><h1>Bonus: Template for tag rendering in Obsidian</h1></center>
-
-
 <div align="center">
   <center><h2>A. Template That Insert The Tags You Added To Your Highlights</h1></center>
 </div>
@@ -245,6 +243,8 @@ In any case there is lot of documentation avalaible for CSL edition. You could a
 <i>Note: you could add conditionals on colors so you got "#hgltY/<yourtag>" for yellow highlight for example. That template might come in the future.</i>
 	<br>
 <br>
+	</div>
+	
 # More Bonus with Obsidian
 ## Make tags match a color and give you the option to nest by starting highlight comment with "/"
 1. Use of '#' for color conditionnal will render clickable tags in Obsidian as normally expected
@@ -273,11 +273,10 @@ Depending on each one's profile and preference
 * give it a unix-terminal feel starting your comment by the sign "/"
 * you can add anything after the nest (of course you don't need to nest everytime)
 
-	
-# More Bonus : visual creativity with OneNote
-	
-<p align="center"><h3>Do you think you could use your annotations to mimick Stephane Mallarmé 's work <i>"Un coup de dé jamais n'abolira le hasard?"</h3><br>
-<br>
+<div align="center">	
+	<h1>More Bonus : visual creativity with OneNote</h1>
+<p align="center"><h3>Do you think you could use your annotations to mimick Stephane Mallarmé 's work<br />
+<i>"Un coup de dé jamais n'abolira le hasard?"</h3><br>
 <p align="center"><img src="https://cdn.essentiels.bnf.fr/media/images/cache/cache/rc/uPCv9QQz/uploads/media/image/20220111152909000000_p111.jpg" width=52% height=54%><br><i>© Bibliothèque nationale de France taken from <a href="https://essentiels.bnf.fr/fr/image/4cf885ab-033d-4ab5-923e-555fc91ce1ee-un-coup-des-jamais-nabolira-hasard-3)">French National Library website</ a href></i>.
 	<br>
 	<br>
