@@ -122,10 +122,11 @@ Now tags could be only place at one place in the template, so you could only mak
 But if you use highlight colors to make it correspond to a set of didascalia of your choice (quietly, loud, etc), you could work your way.<br>
 Continuing the above example: 
 * Let blue the color for "quietly"
-* Highlight for author didascalias / tags for comentator - you didascalias
+* Highlight for author didascalias ; tags for comentator - you didascalias
+* Will render every tag as didasclaia so better use it before starting to read and use a set of tag specific for that case (do not mix it with "normal" usecase).
 ```
 {{if color =='#2ea8e5'}}
-       <p>{{citation}} <i>(quiet):</i><br /> {{highlight}}<br />WORRIED SEEKER <i>({{tags}}):</i><br />{{comment}}</p>	   
+       <p>{{citation}} <i>(quiet):</i><br /> {{highlight}}<br />{{if tags}}WORRIED SEEKER<i>({{tags}}):</i><br />{{comment}}{{endif}}</p>	   
 {{else}}
        <p>{{tags}} {{citation}} {{highlight}} WORRIED SEEKER {{comment}} </p>
 {{endif}}
