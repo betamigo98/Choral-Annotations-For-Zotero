@@ -18,7 +18,7 @@
 * Discover the fields of digital humanities, literacy, semantics! Enter in reflections on authorship, identity, plagiarism, rhetorics, polyphonia, ventriloquism, and much more!<br />
 * Use it for creative work and scenic arts! Work in group, compile readings, print it, and be amazed by what comes out! You'll be surprised and you'll make unexpecteded discoveries!
 * There is also room for therapeutical applications such as bibliotherapy, dramatherapy, and other art therapies.<br />
-* Use it as a didactic tool for writing activities! By continuously asking <i>"Who is talking - and to Whom?"</i> choral annotations could contribute to sustain a culture that cares about responsible authorship and where <i>call-ins</i> and <i>call-outs</i> are preserved as ethical practices. In a so-called "post-truth era" where so-called "anthropos" are struggling against so-called "Fake News" with technologies trained by so-called "Chat-GPT3-trained artificial intelligence", that might be a proposition.<br />
+* Use it as a didactic tool for writing activities! By continuously asking <i>"Who is talking - in which tone and to whom? "</i> choral annotations could contribute to sustain a culture that cares about responsible authorship and where <i>call-ins</i> and <i>call-outs</i> are preserved as ethical practices. In a so-called "post-truth era" where so-called "anthropos" are struggling against so-called "Fake News" with technologies trained by so-called "Chat-GPT3-trained artificial intelligence", that might be a proposition.<br />
   
 # Links
 * [Screenshots](https://github.com/betamigo98/PolyDevice/tree/main/Screenshots)
@@ -63,4 +63,4 @@ Shmelev, S. (1998). Whose Knowledge, Whose nature? Biodiversity, Conservation, a
 # Roadmap and scenarios for Choral Annotations
 * More tweaked CSL Styles for more possibilities! Make metadatas speak to you and them!
 * Trials with various item type and more complex citations
-* Deal with the first public release and its related issues
+* Get feebacks for possible new features
