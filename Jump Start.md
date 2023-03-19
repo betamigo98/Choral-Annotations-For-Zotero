@@ -10,12 +10,12 @@ To get a first look of what you can do with the choral templates, below is the s
 - If you feel in doubt do a proper [backup of your Zotero data](https://www.zotero.org/support/zotero_data#backing_up_your_zotero_data) before proceeding.
 
 ## Steps to reproduce
-1. Start by copying the [centered highlight template](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#112-tighter-form) in its thighest form and paste it in the highlight template field from advanced preferences pane in Zotero.<br>
+1. Start by copying the centered highlight template [in its thighest form](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#1-centered-formatted-templates) and paste it in the highlight template field from advanced preferences pane in Zotero.<br>
 ```<p style="text-align:center;">{{citation}}<br /> {{highlight}}</p>{{if comment}}<p style="text-align:center;">WORRIED SEEKER<br />”{{comment}}”{{endif}}</p>```<br>
 Let the two other templates (title and note) and the csl style import for another moment.
 3. Follow your usual routine of reading and note taking.
 4. Add your annotations to a note from the right-hand pane menu (top-right button). Either one-by-one (you will have to create a note beforehand), either all at once by right-clicking in the right-hand pane and choose "create note from annotations".<br>
-<i> For a better effect and surprise, export all your annotations at once - click "[create note from annotation button](https://github.com/betamigo98/PolyDevice/blob/main/Screenshots/Libre%20Office%20-%20Add%20Notes.png)" in the top-right-of the right-hand pane in the reader </i>.
+<i> For a better effect and surprise, export all your annotations at once - click "[create note from annotation button (https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Zotero%20-%20Making%20Annotations%20And%20Create%20Notes.png)" in the top-right-of the right-hand pane in the reader </i>.
 
     That's it!
 
