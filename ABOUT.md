@@ -2,7 +2,7 @@
 Choral annotations for Zotero is a technology intended to render out the process of reading and annotating as a screenplay where the author(s), or any other metadata field, is — typographicaly in dialog with the annotator(s).<br>
 It is a set of short html scripts at its core and depends on Zotero — in particular its templating features and CSV style editor.<br>
 
-# Templates Proposed In This Repo
+# Templates In This Repo
 Templates have been edited from the default template version in [Zotero](https://www.zotero.org/about/) (version 6 or above). [See default templates on Zotero documentation pages](https://www.zotero.org/support/note_templates).
 # CSL Styles Files In This Repo
 CSL styles proposed in this repo have been edited with the visual editor from [CitationStyle.org](https://editor.citationstyles.org/visualEditor/).<br>
