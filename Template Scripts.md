@@ -102,14 +102,34 @@ Depending on national and cultural traditions, norms and conventions, editorial 
 * Higlight Note Template: ```<p style="text-align:left;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:right;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />```
 
 ## 4.2 Didascalia Workaround
+### with notes (sticky notes)
 It is hardly possible to enter didascalias (precision about the speech "quietly", etc), however, it is possible to get an apromixation editing the (standalone) note template.<br>
 <p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Left-Left%20-%20Didascalies%20-%20French%20Convention.png" width=65% height=70%></p>
 
-Limitations: if you insert your own personal comment on a sticky note, your name or the one you choose will not appear anymore.
+Limitations: if you insert your own personal comment on a sticky note, your name or the one you choose will not appear anymore (and you will also loose the possibility to use the note for your own monolog, comment, etc).
 If that is somehow interesting for you, it has been done with the following templates:<br />
 * Title Note: ```<h1 style="text-align:center;">Choral Anotations<br/>{{date}}</h1><br />```
 * (Standalone) Note Template: ```<p style="text-align:left;">{{comment}}:</p>``` <br />
 * Higlight Note Template: ```<p style="text-align:left;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:left;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />``` <br />
+
+### with tags
+You could use tag to write didascalias and stage directions. However, it will not be possible to diferentiate between you and the author(s). You could place it either before the authors speech or your speech.It is a similar problem as described above with notes.<br>
+* Case for tags are didasclaia for the authors: ```<p>WORRIED SEEKER <i>({{tags}}):</i><br />{{comment}} {{highlight}} {{citation}}</p>```
+* For the comentator (just switch variables positions): ```<p>{{tags}} {{citation}} {{highlight}} WORRIED SEEKER {{comment}} </p>```
+
+### with tags and colors
+Now tags could be only place at one place in the template, so you could only make didascalia for one side of the speakers.<br>
+But if you use highlight colors to make it correspond to a set of didascalia of your choice (quietly, loud, etc), you could work your way.<br>
+Continuing the above example: 
+* Let blue the color for "quietly"
+* Highlight for author didascalias / tags for comentator - you didascalias
+```
+{{if color =='#2ea8e5'}}
+       <p>{{citation}} <i>(quiet):</i><br /> {{highlight}}<br />WORRIED SEEKER <i>({{tags}}):</i><br />{{comment}}</p>	   
+{{else}}
+       <p>{{tags}} {{citation}} {{highlight}} WORRIED SEEKER {{comment}} </p>
+{{endif}}
+```
 <br>
 <br>
 
@@ -224,6 +244,34 @@ In any case there is lot of documentation avalaible for CSL edition. You could a
 <i>Note: you could add conditionals on colors so you got "#hgltY/<yourtag>" for yellow highlight for example. That template might come in the future.</i>
 	<br>
 <br>
+# More Bonus with Obsidian
+## Make tags match a color and give you the option to nest by starting highlight comment with "/"
+1. Use of '#' for color conditionnal will render clickable tags in Obsidian as normally expected
+2. Start a comment by "/" and nest as much as it makes sense to you (and as much as obsdian allow it)
+
+Take this example: 
+1. all yellow highlights means "Method"
+2. you might or not narrow it down to qualitative metod and quantitative method
+3. quantiative method narrows down to linear regression and no-linear regression
+
+with such template: 
+```
+{{if color =='#ffd400'}}
+	<p>{{tags}}#METHOD{{comment}} {{highlight quotes='false'}} {{citation}}</p>
+{{else}}       
+	<p> {{highlight}} {{citation}} {{comment}}</p> 
+{{endif}}
+```
+
+See that every highlight will sort out with "#Method" as a prefix. So typing /quantitative/nolinear will sort our #method/quantitative/nolinear.
+
+### why use it?
+Depending on each one's profile and preference
+* could reduce some click 
+* nested tag could bring more precise information
+* give it a unix-terminal feel starting your comment by the sign "/"
+* you can add anything after the nest (of course you don't need to nest everytime)
+
 	
 # More Bonus : visual creativity with OneNote
 	
