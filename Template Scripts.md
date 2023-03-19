@@ -165,14 +165,15 @@ You could use tag to write didascalias and stage directions. However, it will no
 * For the comentator/annotator (just switch variables positions): ```<p>{{tags}} {{citation}} {{highlight}} WORRIED SEEKER {{comment}} </p>```
 
 ### with colors
-* didascalia <i>quietly</i> in blue highlight on the author side: 
+You can use the template above and replace the colors by the didascalias you need.
+* Example with didasclia <i>quietly</i> in blue highlight on the author side: 
 ```{{if color =='#2ea8e5'}}
        <p>{{citation}} <i>(quiet):</i><br /> {{highlight}}<br />{{if comment}}WORRIED SEEKER<br />{{comment}}{{endif}}</p>	   
 {{else}}
        <p>{{citation}}<br /> {{highlight}}<br /> WORRIED SEEKER<br />{{comment}} </p>
 {{endif}}
 ```
-* didascalia <i>quietly</i> in blue highlight on the annotator side:
+* Example with didascalia <i>quietly</i> in blue highlight on the annotator side:
 ```{{if color =='#2ea8e5'}}
        <p>{{citation}}<br />{{highlight}}<br />{{if comment}}WORRIED SEEKER<i>quietly</i><br />{{comment}}{{endif}}</p>	   
 {{else}}
@@ -184,8 +185,8 @@ You could use tag to write didascalias and stage directions. However, it will no
 As you could assign tags and highlights only to either one or the other side of the speakers (auhtors and annotators), you might be interested in using both so you could control both sides.<br>
 You will have to choose how to make tags and colors match the author and the comentator.<br>
 Here the distribution will be as follow:
-* Discalia on the author(s) (citation) side: use highlight
-* Didascalia on the anotator a.k.a. comentator (your) side: use tags
+* Discalia on the author side: use highlight
+* Didascalia on the anotator side: use tags
 * Metanarrative: use sticky Notes
 <i>Such distribution limits didascalias from the authors side to the number of highlight colors avalaible (currently 9).</i>
 
@@ -201,19 +202,6 @@ Continuing the above example:
 {{endif}}
 ```
 <br>
-<br>
-<div align="center">	
-	<h1>Bonus : visual creativity with OneNote</h1>
-<p align="center"><h3>Do you think you could use your annotations to mimick Stephane Mallarmé 's work<br />
-	<i>"Un coup de dé jamais n'abolira le hasard?"</i></h3><br>
-<p align="center"><img src="https://cdn.essentiels.bnf.fr/media/images/cache/cache/rc/uPCv9QQz/uploads/media/image/20220111152909000000_p111.jpg" width=52% height=54%><br><i>© Bibliothèque nationale de France taken from <a href="https://essentiels.bnf.fr/fr/image/4cf885ab-033d-4ab5-923e-555fc91ce1ee-un-coup-des-jamais-nabolira-hasard-3)">French National Library website</ a href></i>.
-	<br>
-	<br>
-
-<p align="center">...well, sort of. With Microsoft OneNote you can reach that kind of results:<br>
-<p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Visual%20Creativity%20And%20Annotations%20(OneNote).gif">
-</div>
-<br>
 
 # 5. Additional Notes And Help
 * You should easily retrieve the three templates fields by entering "template" in the advanced configuration search bar.
@@ -225,7 +213,7 @@ They are: 1) Note title template ; 2) Note template (a.k.a. sticky note or stand
 * Try to variate authorship: set the publisher, the location, or even a date or any ohter metada in the role of the "author" (or "speaker" "actor" "performer" if you wish).
 * See [screenshots](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/Screenshots) and [sample documents](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/Choral%20Rendering%20-%20Samples) if you want to see more.
 <br>
-<br>
+
 # 6. Troubleshooting, Ajustments, Customization
 Remember that there are two components involved for a full choral rendering: the templates from Zotero and the CSL Styles. The CSL settings only applies for the author side, not to the comentator side ("your" side). So it has to be checked carefully that it does not result in double use of brackets, dashes, spaces, and ":".<br />
 Once the template editor in Zotero is opened, it is quite easy to make some trials-and-errors from Zotero Reader switching from one window to the other.
@@ -234,6 +222,19 @@ Once the template editor in Zotero is opened, it is quite easy to make some tria
 CSL edition for yourself (remember [there are APA7 modified for chorale purpose avalaible to download](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/CSL%20Choral%20Styles) with more to come) might take more time as you will have to look up in macros, variable and value, then save and install the style (quicker of you are confortable enough to edit straight from the console in Zotero corresponding menu).<br />
 In any case there is lot of documentation avalaible for CSL edition. You could also open an issue in that repo, or ask help in Zotero forums too.<br />
 <br>
+<br>
+
+<div align="center">	
+	<h1>Bonus : visual creativity with OneNote</h1>
+<p align="center"><h3>Do you think you could use your annotations to mimick Stephane Mallarmé 's work<br />
+	<i>"Un coup de dé jamais n'abolira le hasard?"</i></h3><br>
+<p align="center"><img src="https://cdn.essentiels.bnf.fr/media/images/cache/cache/rc/uPCv9QQz/uploads/media/image/20220111152909000000_p111.jpg" width=52% height=54%><br><i>© Bibliothèque nationale de France taken from <a href="https://essentiels.bnf.fr/fr/image/4cf885ab-033d-4ab5-923e-555fc91ce1ee-un-coup-des-jamais-nabolira-hasard-3)">French National Library website</ a href></i>.
+	<br>
+	<br>
+
+<p align="center">...well, sort of. With Microsoft OneNote you can reach that kind of results:<br>
+<p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Visual%20Creativity%20And%20Annotations%20(OneNote).gif">
+</div>
 <br>
 
 <div align="center">
@@ -281,8 +282,11 @@ In any case there is lot of documentation avalaible for CSL edition. You could a
 <p align="center"><a href="https://forums.zotero.org/discussion/99170/from-zotero-to-obsidian-a-tag-based-workflow-in-pictures#latest"> See also the original post in Zotero forum</a href>.<br>
 <br>
 	</div>
-	
-# More Extra with Obsidian
+
+<div align="center">	
+	<h1>More extra with Obsidian</h1>
+	</div>
+
 ## Nest tag by starting highlight comments with a forward slash "/"
 Take this example: 
 * all yellow highlights means "Method"
@@ -306,3 +310,4 @@ Depending on each one's profile and preference
 * give it a unix-terminal feel starting your comment by the sign "/"
 * you can add anything after the nest (you don't need to nest everytime)<br>
 <i>Note that you could also create nested friendly tags directly from Zotero. Just add forward slashes when you create a tag.</i>
+
