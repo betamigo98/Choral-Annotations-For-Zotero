@@ -82,15 +82,15 @@ Depending on national and cultural traditions, norms and conventions, editorial 
 <p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Left-Right%20-%20French%20Convention.png" width=65% height=70%)>
 
 * Title Note: ```<h1 style="text-align:left;">Choral Anotations<br/>{{date}}</h1><br />```
-* (Standalone) Note Template: ```<p style="text-align:center;">" WORRIED SEEKER: {{comment}} "</p><br />``` <br />
-* Higlight Note Template: ```<p style="text-align:center;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:center;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />```
+* (Standalone) Note Template: ```<p style="text-align:left;">" WORRIED SEEKER: {{comment}} "</p><br />``` <br />
+* Higlight Note Template: ```<p style="text-align:left;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:right;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />```
 
 ## 3.3 Centered - French Convention
 <p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Centered%20-%20French%20Convention.png" width=65% height=70%>
 
 * Title Note: ```<h1 style="text-align:center;">Choral Annotations<br/>{{date}}</h1><br />```
 * (Standalone) Note Template: ```<p style="text-align:left;">" WORRIED SEEKER: {{comment}} "</p><br />``` <br />
-* Higlight Note Template: ```<p style="text-align:center;">{{citation}}:<p style="text-align:left">{{highlight quotes='false'}}{{if comment}}<p style="text-align:center;">WORRIED SEEKER: <p style="text-align:right;">{{comment}}{{endif}}</p><br />``` <br />
+* Higlight Note Template: ```<p style="text-align:center;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:center;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />``` <br />
 
 # 4. More Templates
 
@@ -99,7 +99,7 @@ Depending on national and cultural traditions, norms and conventions, editorial 
 
 * Title Note: ```<h1 style="text-align:center;">Choral Annotations<br/>{{date}}</h1><br />```
 * (Standalone) Note Template: ```<p style="text-align:center;">WORRIED SEEKER:<p style="text-align:right;">{{comment}}</p><br />``` <br />
-* Higlight Note Template: ```<p style="text-align:left;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<p style="text-align:right;">&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />```
+* Higlight Note Template: ```<p style="text-align:center;">{{citation}}:<p style="text-align:left">{{highlight quotes='false'}}{{if comment}}<p style="text-align:center;">WORRIED SEEKER: <p style="text-align:right;">{{comment}}{{endif}}</p><br />```
 
 ## 4.2 Using highlight colors
 Systematic users profile might have a very welled organized color system management that they manage to maintain all along their workflow.
