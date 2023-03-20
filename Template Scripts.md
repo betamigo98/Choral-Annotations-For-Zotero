@@ -216,7 +216,7 @@ See final pdf (colors have been maintained but you can delete it and keep it bla
 <i> Important: for a reason I don't understand this template only function with Word i.e. LibreOffice will format to the left.</i>
 <br />
 <br />
-
+<br />
 # 5. Additional Notes And Help
 * You should easily retrieve the three templates fields by entering "template" in the advanced configuration search bar.
 They are: 1) Note title template ; 2) Note template (a.k.a. sticky note or standalone note) ; and 3) Highlight text template.<br>
