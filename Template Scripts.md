@@ -7,8 +7,7 @@ Below are all the templates scripts that has been edited so far: <br>
 1. centered format with couple of variations on spacement. See [section 1](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#1-centered-formatted-templates).
 2. right-left format with also variations on spacement. See [section 2](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#2-left-right-formatted-templates).
 3. left-right formats, left-left format, had been inserted in [section 3](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#3-other-templates---with-previews) and [section 4](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#4-more-templates) gives some extra templates.
-4. highlight colors mapping to any text of your choice is in [section 4.3](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#43-using-highlight-colors).
-5. there is also an attempt to integrate didascalias in [section 4.2](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#42-didascalia-workaround).
+4. there is also an attempt to integrate didascalias in [section 4.2](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#42-didascalia-workaround).
 
 * Default name for comentator is "WORRIED SEEKER". You'll have to change it manually or by search and replace.<br />
 * Special characters wrapping the dialogs ```" "" " ";" ":" ";" "-" ";"``` and letter capitalization could be edited both from within the template syntax and the CSV style editor.
@@ -322,11 +321,15 @@ Depending on each one's profile and preference
 * you can add anything after the nest (you don't need to nest everytime)<br>
 <i>Note that you could also create nested friendly tags directly from Zotero. Just add forward slashes when you create a tag.</i>
 
-# Last : a template that rename highlight colors
+
+<div align="center">	
+	<h1>Last : a template that rename highlight colors</h1>
+	</div>
+<br />
 Systematic users profile might have a very welled organized color system management that they manage to maintain all along their workflow.
 The following template propose to make each color correspond to a piece of text.
 Change the text pattern below for any text you want i.e. example, method argument, or importance1 importance2 for example.
-If you just need to edit some of the colors, delete the correpsonding sections and keep the {{else}} part at the end of the script for closing.
+If you just need to edit some of the colors, delete the correpsonding sections and keep the {{else}} part at the end of the script for closing. <br />
 * yellow: "yellow highlight: "
 * red: "red highlight: "
 * green: "green highlight: "
