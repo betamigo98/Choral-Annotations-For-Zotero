@@ -18,7 +18,7 @@
 * Discover the fields of digital humanities, literacy, semantics! Enter in reflections on authorship, identity, plagiarism, rhetorics, polyphonia, ventriloquism, and much more!<br />
 * Use it for creative work and scenic arts! Work in group, compile readings, print it, and be amazed by what comes out! You'll be surprised and you'll make unexpecteded discoveries!
 * There is also room for therapeutical applications such as bibliotherapy, dramatherapy, and other art therapies.<br />
-* Use it as a didactic tool for writing activities! By continuously asking <i>" Who is talking - in which tone and to whom? "</i> choral annotations could contribute to sustain a culture that cares about responsible authorship and where <i>call-ins</i> and <i>call-outs</i> are preserved as ethical practices. In a so-called "post-truth era" where so-called "anthropos" are struggling against so-called "fake news" with technologies trained by so-called "Chat-GPT3-trained artificial intelligence", that might be a proposition.<br />
+* Use it as a didactic tool for writing activities! By continuously asking <i>" Who is talking - in which tone and to whom? "</i> choral annotations could contribute to sustain a culture that cares about responsible authorship and where <i>call-ins</i> and <i>call-outs</i> are preserved as ethical practices. In a so-called "post-truth era" where so-called "anthropos" are struggling against so-called "fake news" with technologies trained by so-called "Chat-GPT3-trained artificial intelligence", that might be a proposition.<br /> //A safeguard against a blackbox society scenario.
   
 # Links
 * [Screenshots](https://github.com/betamigo98/PolyDevice/tree/main/Screenshots)
@@ -53,8 +53,10 @@ Carel, M., & Ducrot, O. (2009). Mise au point sur la polyphonie. *Langue frança
 Clement, T. E., & Fischer, L. (2021). Audiated Annotation from the Middle Ages to the Open Web. *Digital Humanities Quarterly*, *015*(1).<br />
 Kalir, R., & Garcia, A. (2021). *Annotation*. The MIT Press.<br />
 Kersh, S. E., & Skalak, C. (2018). From Distracted to Recursive Reading: Facilitating Knowledge Transfer through Annotation Software. *DHQ: Digital Humanities Quarterly*, *12*(2). [http://www.digitalhumanities.org/dhq/vol/12/2/000387/000387.html](http://www.digitalhumanities.org/dhq/vol/12/2/000387/000387.html) <br />
+Pasquale, F. (2016). *The black box society: The secret algorithms that control money and information* (First Harvard University Press paperback edition). Harvard University Press.<br/>
 Lanarès, J., Laperrouza, M., & Sylvestre, E. (2023). *Design pédagogique* (1re édition). Épistémé. [https://doi.org/10.55430/8015VA01](https://doi.org/10.55430/8015VA01). [See offical site for downloading a copy](https://designpedagogique.info/)<br />
 Rinck, F. (2006). Gestion de la polyphonie et figure de l’auteur dans les parties théoriques de Rapports de stage. *Lidil. Revue de linguistique et de didactique des langues*, *34*, Article 34. [https://doi.org/10.4000/lidil.23](https://doi.org/10.4000/lidil.23)<br />
+Schiffrin, D., Tannen, D., & Hamilton, H. E. (Eds.). (2001). *The handbook of discourse analysis*. Blackwell Publishers.<br />
 Shmelev, S. (1998). Whose Knowledge, Whose nature? Biodiversity, Conservation, and the Political Ecology of Social Movements. *Journal of Political Ecology*, *5*(1). [https://doi.org/10.2458/v5i1.21397](https://doi.org/10.2458/v5i1.21397)
  
 ## Extended Bibliography
