@@ -209,6 +209,11 @@ Now the general template would be the following:< br />
 ```
 * Change the text "didascalia colors" according to what you need.< br />
 
+Here is how it looks from the reader:<br />
+<p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Zotero%20-%20Didascalias.png" width=67% height=95%></p><br />
+See final pdf (colors have been maintained but you can delete it and keep it black):<br />
+<p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Didascalias.png" width=65% height=65%></p>
+
 # 5. Additional Notes And Help
 * You should easily retrieve the three templates fields by entering "template" in the advanced configuration search bar.
 They are: 1) Note title template ; 2) Note template (a.k.a. sticky note or standalone note) ; and 3) Highlight text template.<br>
