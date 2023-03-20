@@ -100,49 +100,7 @@ Depending on national and cultural traditions, norms and conventions, editorial 
 * Title Note: ```<h1 style="text-align:center;">Choral Annotations<br/>{{date}}</h1><br />```
 * (Standalone) Note Template: ```<p style="text-align:center;">WORRIED SEEKER:<p style="text-align:right;">{{comment}}</p><br />``` <br />
 * Higlight Note Template: ```<p style="text-align:center;">{{citation}}:<p style="text-align:left">{{highlight quotes='false'}}{{if comment}}<p style="text-align:center;">WORRIED SEEKER: <p style="text-align:right;">{{comment}}{{endif}}</p><br />```
-
-## 4.2 Using highlight colors
-Systematic users profile might have a very welled organized color system management that they manage to maintain all along their workflow.
-The following template propose to make each color correspond to a piece of text.
-Change the text pattern below for any text you want i.e. example, method argument, or importance1 importance2 for example.
-If you just need to edit some of the colors, delete the correpsonding sections and keep the {{else}} part at the end of the script for closing.
-* yellow: "yellow highlight: "
-* red: "red highlight: "
-* green: "green highlight: "
-* blue: "blue highlight: "
-* purple: "purple highlight: "
-* magenta: "magenta highlight: " 
-* orange: "orange highlight: "
-* gray: "gray highlight: "
-
-```
-{{if color =='#ffd400'}}
-       <p> yellow highlight: {{highlight}} {{citation}} {{comment}}</p>
-{{elseif color == '#ff6666'}}
-       <p> red highlight: {{highlight}} {{citation}} {{comment}}</p>
-{{elseif color == '#5fb236'}}
-       <p> green highlight {{highlight}} {{citation}} {{comment}}</p>
-{{elseif color == '#2ea8e5'}}
-       <p> blue highlight: {{highlight}} {{citation}} {{comment}}</p>
-{{elseif color == '#a28ae5'}}
-       <p> purple highlight: {{highlight}} {{citation}} {{comment}}</p>
-{{elseif color == '#e56eee'}}
-       <p> magenta highlight: {{highlight}} {{citation}} {{comment}}</p>
-{{elseif color == '#f19837'}}
-       <p> orange highlight: {{highlight}} {{citation}} {{comment}}</p>	   
-{{elseif color == '#aaaaaa'}}
-       <p> gray highlight: {{highlight}} {{citation}} {{comment}}</p>	   
-{{else}}
-       <p> {{highlight}} {{citation}} {{comment}}</p>
-{{endif}}
-```
-
-<p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Zotero%20-%20Rename%20Highlight%20Colors.png"
-width=72% height=113%>
-
-<p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Zotero%20-%20Rename%20Highlight%20Colors%20-%20Showed.png" width=72% height=113%><br />
-<p align="center"><i>When "show color highlights" is ticked on the note pane"</i></p>
-<br>
+<br />
 
 ## 4.2 Didascalia Workaround
 How to integrate didascalia (a.k.a. stage directions) and a metanarrative voice at the same time?<br>
@@ -188,7 +146,7 @@ Here the distribution will be as follow:
 * Discalia on the author side: use highlight
 * Didascalia on the anotator side: use tags
 * Metanarrative: use sticky Notes
-<i>Such distribution limits didascalias from the authors side to the number of highlight colors avalaible (currently 9).</i>
+<i>Such distribution limits didascalias from the authors side to the number of highlight colors avalaible (currently 8).</i>
 
 Continuing the above example: 
 * Let blue the highlight color for "quietly"
@@ -202,6 +160,54 @@ Continuing the above example:
 {{endif}}
 ```
 <br>
+
+Now the general template would be the following:< br />
+```
+<p style="text-align:center;">
+{{if color =='#ffd400'}}
+	{{citation}}<br /><i>(yellow didascalia)</i><br />{{highlight}}
+		{{if comment}}
+			<br />WORRIED SEEKER {{if tags}}<br /><i>({{tags}}) </i>{{endif}}
+			<br />{{comment}}{{endif}}
+{{elseif color =='#ff6666'}}
+	{{citation}}<br /><i>(red didascalia)</i><br />{{highlight}}
+		{{if comment}}
+			<br />WORRIED SEEKER {{if tags}}<br /><i>({{tags}})</i>{{endif}}
+			<br />{{comment}}{{endif}}
+{{elseif color =='#5fb236'}}
+	{{citation}}<br /><i>(green didascalia)<br /></i>{{highlight}}
+		{{if comment}}
+			<br />WORRIED SEEKER {{if tags}}<br /><i>({{tags}})</i>{{endif}}
+			<br />{{comment}}{{endif}}
+{{elseif color =='#2ea8e5'}}
+	{{citation}}<br /><i>(blue didascalia)</i><br />{{highlight}}
+		{{if comment}}
+			<br />WORRIED SEEKER{{if tags}}<br /><i>({{tags}})</i>{{endif}}
+			<br />{{comment}}{{endif}}
+{{elseif color =='#a28ae5'}}
+	{{citation}}<br /><i>(purple didascalia)</i><br />{{highlight}}
+		{{if comment}}
+			<br />WORRIED SEEKER{{if tags}}<br /><i>({{tags}})</i>{{endif}}
+			<br />{{comment}}{{endif}}
+{{elseif color =='#e56eee'}}
+	{{citation}}<br /><i>(magenta didascalia)</i><br />{{highlight}}
+		{{if comment}}
+			<br />WORRIED SEEKER<br />{{if tags}}<br /><i>({{tags}})</i>{{endif}}
+			<br />{{comment}}{{endif}}
+{{elseif color =='#f19837'}}
+	{{citation}}<br /><i>(orange didascalia)</i><br />{{highlight}}
+		{{if comment}}
+			<br />WORRIED SEEKER{{if tags}}<br /><i>({{tags}})</i>{{endif}}
+			<br />{{comment}}{{endif}}
+{{elseif color =='#aaaaaa'}}
+	{{citation}}<br /><i>(gray didascalia)</i><br />{{highlight}}
+		{{if comment}}
+			<br />WORRIED SEEKER{{if tags}}<br /><i>({{tags}})</i>{{endif}}
+			<br />{{comment}}{{endif}}
+{{endif}}
+</p>
+```
+* Change the text "didascalia colors" according to what you need.< br />
 
 # 5. Additional Notes And Help
 * You should easily retrieve the three templates fields by entering "template" in the advanced configuration search bar.
@@ -311,3 +317,45 @@ Depending on each one's profile and preference
 * you can add anything after the nest (you don't need to nest everytime)<br>
 <i>Note that you could also create nested friendly tags directly from Zotero. Just add forward slashes when you create a tag.</i>
 
+# Last : a template that rename highlight colors
+Systematic users profile might have a very welled organized color system management that they manage to maintain all along their workflow.
+The following template propose to make each color correspond to a piece of text.
+Change the text pattern below for any text you want i.e. example, method argument, or importance1 importance2 for example.
+If you just need to edit some of the colors, delete the correpsonding sections and keep the {{else}} part at the end of the script for closing.
+* yellow: "yellow highlight: "
+* red: "red highlight: "
+* green: "green highlight: "
+* blue: "blue highlight: "
+* purple: "purple highlight: "
+* magenta: "magenta highlight: " 
+* orange: "orange highlight: "
+* gray: "gray highlight: "
+
+```
+{{if color =='#ffd400'}}
+       <p> yellow highlight: {{highlight}} {{citation}} {{comment}}</p>
+{{elseif color == '#ff6666'}}
+       <p> red highlight: {{highlight}} {{citation}} {{comment}}</p>
+{{elseif color == '#5fb236'}}
+       <p> green highlight {{highlight}} {{citation}} {{comment}}</p>
+{{elseif color == '#2ea8e5'}}
+       <p> blue highlight: {{highlight}} {{citation}} {{comment}}</p>
+{{elseif color == '#a28ae5'}}
+       <p> purple highlight: {{highlight}} {{citation}} {{comment}}</p>
+{{elseif color == '#e56eee'}}
+       <p> magenta highlight: {{highlight}} {{citation}} {{comment}}</p>
+{{elseif color == '#f19837'}}
+       <p> orange highlight: {{highlight}} {{citation}} {{comment}}</p>	   
+{{elseif color == '#aaaaaa'}}
+       <p> gray highlight: {{highlight}} {{citation}} {{comment}}</p>	   
+{{else}}
+       <p> {{highlight}} {{citation}} {{comment}}</p>
+{{endif}}
+```
+
+<p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Zotero%20-%20Rename%20Highlight%20Colors.png"
+width=72% height=113%>
+
+<p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Zotero%20-%20Rename%20Highlight%20Colors%20-%20Showed.png" width=72% height=113%><br />
+<p align="center"><i>When "show color highlights" is ticked on the note pane"</i></p>
+<br>
