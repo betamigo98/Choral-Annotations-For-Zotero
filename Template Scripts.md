@@ -90,7 +90,7 @@ Depending on national and cultural traditions, norms and conventions, editorial 
 * Title Note: ```<h1 style="text-align:center;">Choral Annotations<br/>{{date}}</h1><br />```
 * (Standalone) Note Template: ```<p style="text-align:left;">" WORRIED SEEKER: {{comment}} "</p><br />``` <br />
 * Higlight Note Template: ```<p style="text-align:center;">” {{citation}}: {{highlight quotes='false'}}{{if comment}}<br />&#8211; WORRIED SEEKER: {{comment}} ”{{endif}}</p><br />```<br />
-
+<br />
 # 4. More Templates
 
 ## 4.1 Mixted : Centered for names and left-right for speeches (without french convention)
@@ -236,7 +236,6 @@ Once the template editor in Zotero is opened, it is quite easy to make some tria
 CSL edition for yourself (remember [there are APA7 modified for chorale purpose avalaible to download](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/CSL%20Choral%20Styles) with more to come) might take more time as you will have to look up in macros, variable and value, then save and install the style (quicker of you are confortable enough to edit straight from the console in Zotero corresponding menu).<br />
 In any case there is lot of documentation avalaible for CSL edition. You could also open an issue in that repo, or ask help in Zotero forums too.<br />
 <br>
-<br>
 
 <div align="center">	
 	<h1>Bonus : visual creativity with OneNote</h1>
@@ -253,7 +252,6 @@ In any case there is lot of documentation avalaible for CSL edition. You could a
 
 <div align="center">
   <center><h1>Extra: Template for tag rendering in Obsidian</h1></center>
-	<br>
 <div align="center">
   <center><h2>A. Template That Insert The Tags You Added To Your Highlights</h1></center>
 </div>
@@ -324,7 +322,7 @@ Depending on each one's profile and preference
 * give it a unix-terminal feel starting your comment by the sign "/"
 * you can add anything after the nest (you don't need to nest everytime)<br>
 <i>Note that you could also create nested friendly tags directly from Zotero. Just add forward slashes when you create a tag.</i>
-
+<br />
 
 <div align="center">	
 	<h1>Last : a template that rename highlight colors</h1>
