@@ -209,9 +209,13 @@ Now the general template would be the following:< br />
 * Change the text "didascalia colors" according to what you need.< br />
 
 Here is how it looks from the reader:<br />
-<p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Zotero%20-%20Didascalias.png" width=67% height=95%></p><br />
+<p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Zotero%20-%20Didascalias.png" width=67% height=95%></p>
 See final pdf (colors have been maintained but you can delete it and keep it black):<br />
-<p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Didascalias.png" width=65% height=65%></p>
+<p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Didascalias.png" width=67% height=65%></p>
+
+<i> Important: for a reason I don't understand this template only function with Word i.e. LibreOffice will format to the left.</i>
+<br />
+<br />
 
 # 5. Additional Notes And Help
 * You should easily retrieve the three templates fields by entering "template" in the advanced configuration search bar.
