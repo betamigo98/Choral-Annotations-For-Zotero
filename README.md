@@ -31,7 +31,7 @@
 * [Sample documents for closer view](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/Choral%20Rendering%20-%20Samples)
 * [All templates](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#template-scripts)
 * [Download APA7 Choral Styles](https://github.com/betamigo98/PolyDevice/tree/main/CSL%20Choral%20Styles)
-* [Library Group linked to that project](https://www.zotero.org/search/type/group?q=Chorale%20Annotations%20Library)
+* [Library Group linked to that project](https://www.zotero.org/groups/4989639/choral_annotations_library)
 * [I want that template I just saw above!](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#33-centered---french-convention)
 <br />
 
