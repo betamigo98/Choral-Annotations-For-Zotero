@@ -27,6 +27,7 @@
 # Links
 * [Jump Start!](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Jump%20Start.md#jump-start)
 * [Screenshots](https://github.com/betamigo98/PolyDevice/tree/main/Screenshots)
+* [Step-By-Step Install and Workflow](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Step-by-Step%20Install%20and%20Workflow.md)
 * [Sample documents for closer view](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/Choral%20Rendering%20-%20Samples)
 * [All templates](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#template-scripts)
 * [Download APA7 Choral Styles](https://github.com/betamigo98/PolyDevice/tree/main/CSL%20Choral%20Styles)
