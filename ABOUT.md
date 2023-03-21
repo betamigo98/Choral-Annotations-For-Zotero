@@ -7,16 +7,18 @@ It is a set of short html scripts at its core and depends on Zotero — in parti
 Templates have been edited from the default template version in [Zotero](https://www.zotero.org/about/) (version 6 or above). [See default templates on Zotero documentation pages](https://www.zotero.org/support/note_templates).
 # CSL Styles Files In This Repo
 CSL styles proposed in this repo have been edited with the visual editor from [CitationStyle.org](https://editor.citationstyles.org/visualEditor/).<br />
+
 The APA7th style has been choosen because it is popular and because it was the first style proposed for editing. APA7th credits @ Brenton M. Wiernik (zotero@wiernik.org) Creative Commons Attribution-ShareAlike 3.0 License.<br />
+
 APA7 has only been modified on the inline citation side. For all styles, parentheses have been stripped out. Depending on the variations, the delimiter could have changed from ","or ";" to "and" or "&", and the date or the locator could have been deleted. All choral styles have been checked using the [CSL Style and Validator](https://validator.citationstyles.org/).
   
 CSL goes for Citation Style Language. See more about it from [the CSL project homepage](https://citationstyles.org/) and more about current challenges with reference managers and metadata [here](https://commonmeta.org/use-cases).
 ### About the AUTHORDATEP Style
-This style keeps the locator of the citation i.e. the page(s) on the inline citation (p.1 or pp.1-2 for example). all the other style have dropped this information.<br />
-For technical reason, a "P" (in uppercase) is used for both singular and plural pages (both for p.1 and pp.1-2.<br />
-The intention was to make the author reference as it was a forum username or machine-like nickname like C3-PO in Star Wars saga (I know it's an 'o' not a zero but I am not intending to be exact).
-This echoing Roland Barthes when he wrote that "the death of the author is the birth of the reader" (1984). With such style, every citation is the birth a new author that the...annotator give by highlighting a fragment of the text and build his own meaning with its own context, position, and standpoint.
-
+This style keeps the locator of the citation i.e. the page(s) on the inline citation (p.1 or pp.1-2 for example). all the other style have dropped this information. For technical reason, a "P" (in uppercase) is used for both singular and plural pages (both for p.1 and pp.1-2.<br />
+  
+The intention was to make the author reference as it was a forum username or machine-like nickname like C3-PO in Star Wars saga (I know it's an 'o' not a zero but I am not intending to be exact).This echoing Roland Barthes when he wrote that "the death of the author is the birth of the reader" (1984). With such style, every citation is the birth a new author that the...annotator give by highlighting a fragment of the text and build his own meaning with its own context, position, and standpoint.
+<br />
+  <br />
   <i>Reference</i><br />
 Barthes R. (1984). « La mort de l’auteur », in Le Bruissement de la langue, Paris, Le Seuil.
 
