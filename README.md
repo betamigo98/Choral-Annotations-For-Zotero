@@ -28,7 +28,7 @@
 * [Library Group linked to that project](https://www.zotero.org/search/type/group?q=Chorale%20Annotations%20Library)
 * [I want that template I just saw above!](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#33-centered---french-convention)
 
-# More about Choral Annotations
+# About Choral Annotations
 <p align="justify">The more technical I could describe is that this is no more than a couple of html line in three fields in Zotero preference pane. There is also a very short amount of macro editing in the CSV Style editor. The html lines are templates in the sense that they pre-format the annotations you made from Zotero reader pane. Last part of the formatting process pass through a word document and the use of CSV styles.
 
 <p align="justify">Is simulating a real conversation with author as they were right here in the very room we are as we read a grotesque idea or worst, a misleading representation that should not be followed at all?<br />
@@ -41,10 +41,10 @@ The choral conception of having a concrete discussion with real people here and 
 
 <p align="justify">As it comes to pedagogy, the choral annotation process proposed here could be ubicated in both of the two categories "Interaction" and "Reflexivité" in the typology proposed by a team of researcher in Switzerland, letting room for a wider reflexion on pedagogy design and practices (Lanarès et al., 2023, see pp. 104 y 109 in particular).
 <br >
-  <br />
-<p align="justify">Now is that an anti-ChatGPT?<br />
-Chorals annotations strive for consciousness about authorship and what could be the source of a given information. Thus it has more to do with a form of check and balance device, or "garde-fous" as french say. Which is also a form of an anti-ChatGPT yes, but the possibility of sustaining a wise use of GPT-like tools by maintaining a critical distance in mind. In such sense, it could also be thought as a hyper Chat GPT where there is hope for the most cautionnary use of chat-GPTs in the public space.<br />
-<p align="center">These are some lines of work to be continued by whoever would find curiosity in it.<br />
+<p align="justify">Now is that an anti-ChatGPT? Chorals annotations strive for consciousness about authorship and what could be the source of a given information. Thus it has more to do with a form of check and balance device, or "garde-fous" as french say. Which is also a form of an anti-ChatGPT yes, but the possibility of sustaining a wise use of GPT-like tools by maintaining a critical distance in mind. In such sense, it could also be thought as a hyper Chat GPT where there is hope for the most cautionnary use of chat-GPTs in the public space.<br />
+
+<p align="center">See also <a href="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/ABOUT.md"> "About"page </a href> for more.<br />
+These are some lines of work to be continued by whoever would find curiosity in it.<br />
 In any case, this project started from having fun, I hope you’ll have some too experimenting it for yourself!</p>
 
 ## References
@@ -68,3 +68,4 @@ Shmelev, S. (1998). Whose Knowledge, Whose nature? Biodiversity, Conservation, a
 * More tweaked CSL Styles for more possibilities! Make metadatas speak to you and them!
 * Trials with various item type and more complex citations
 * Get feebacks for possible new features
+
