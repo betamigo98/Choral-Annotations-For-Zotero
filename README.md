@@ -55,14 +55,14 @@ In any case, this project started from having fun, I hope you’ll have some too
 ## References
 Anscombre, J.-C. (2009). La comédie de la polyphonie et ses personnages. *Langue française*, *164*(4), 11-31. [https://doi.org/10.3917/lf.164.0011](https://doi.org/10.3917/lf.164.0011)<br />
 Beaude, B. (2021). Synchorisations réticulaires. En V. Schafer (Ed.), *Temps et temporalités du Web* (pp. 153-172). Presses universitaires de Paris Nanterre. [https://doi.org/10.4000/books.pupo.6133](https://doi.org/10.4000/books.pupo.6133)<br />
-<i>Calling In and Calling Out Guide<i>. (s. f.). Recuperado 16 de marzo de 2023, de [https://edib.harvard.edu/calling-and-calling-out-guide](https://edib.harvard.edu/calling-and-calling-out-guide)<br />
+Blanc, G., Demeulenaere, E., & Feuerhahn, W. (2017). Les sciences sociales aux prises avec l’environnement. En G. Blanc, E. Demeulenaere, & W. Feuerhahn, Humanités environnementales: Enquêtes et contre-enquêtes (pp. 7-18). Publications de la Sorbonne.<br />
 Carel, M., & Ducrot, O. (2009). Mise au point sur la polyphonie. *Langue française*, *164*(4), 33-43. [https://doi.org/10.3917/lf.164.0033](https://doi.org/10.3917/lf.164.0033)<br />
 Clement, T. E., & Fischer, L. (2021). Audiated Annotation from the Middle Ages to the Open Web. *Digital Humanities Quarterly*, *015*(1).<br />
+Haraway, D. (2015). Anthropocene, Capitalocene, Plantationocene, Chthulucene: Making Kin. Environmental Humanities, 6(1), 159-165. https://doi.org/10.1215/22011919-3615934<br />
 Kalir, R., & Garcia, A. (2021). *Annotation*. The MIT Press.<br />
 Kersh, S. E., & Skalak, C. (2018). From Distracted to Recursive Reading: Facilitating Knowledge Transfer through Annotation Software. *DHQ: Digital Humanities Quarterly*, *12*(2). [http://www.digitalhumanities.org/dhq/vol/12/2/000387/000387.html](http://www.digitalhumanities.org/dhq/vol/12/2/000387/000387.html) <br />
 Pasquale, F. (2016). *The black box society: The secret algorithms that control money and information* (First Harvard University Press paperback edition). Harvard University Press.<br/>
 Lanarès, J., Laperrouza, M., & Sylvestre, E. (2023). *Design pédagogique* (1re édition). Épistémé. [https://doi.org/10.55430/8015VA01](https://doi.org/10.55430/8015VA01). [See offical site for downloading a copy](https://designpedagogique.info/)<br />
-Lefebvre, H. (1974). La production de l’espace. *L’Homme et la société*, *31*(1), 15-32. [https://doi.org/10.3406/homso.1974.1855](https://doi.org/10.3406/homso.1974.1855)
 Rinck, F. (2006). Gestion de la polyphonie et figure de l’auteur dans les parties théoriques de Rapports de stage. *Lidil. Revue de linguistique et de didactique des langues*, *34*, Article 34. [https://doi.org/10.4000/lidil.23](https://doi.org/10.4000/lidil.23)<br />
 Schiffrin, D., Tannen, D., & Hamilton, H. E. (Eds.). (2001). *The handbook of discourse analysis*. Blackwell Publishers.<br />
 Shmelev, S. (1998). Whose Knowledge, Whose nature? Biodiversity, Conservation, and the Political Ecology of Social Movements. *Journal of Political Ecology*, *5*(1). [https://doi.org/10.2458/v5i1.21397](https://doi.org/10.2458/v5i1.21397)
