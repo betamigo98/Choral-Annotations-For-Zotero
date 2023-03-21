@@ -1,9 +1,9 @@
-# <p align="center"> Choral Annotions for Zotero
-# <p align="center"> Make your annotations look like a screenplay!
+# <p align="center"> Choral Annotions For Zotero
+# <p align="center"> Make Your Annotations Look Like A Screenplay!
 <p align="center"> <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Centered%20-%20French%20Convention.png" width=88% height=93%><br /></p>
 
 # <p align="center"> Overview:
-| <h3>Annotate your reading from Zotero reader...<h3> | ...and create a Choral Annotation rendering in two clicks...
+| Annotate your reading from Zotero reader... | ...and create a Choral Annotation rendering in two clicks...
 |:---:|:---:|
 | <img src="https://github.com/betamigo98/PolyDevice/blob/main/Screenshots/Zotero%20-%20Making%20Annotations.png" width=100% height=80%> | <img src="https://github.com/betamigo98/PolyDevice/blob/main/Screenshots/Zotero%20-%20Making%20Annotations%20And%20Create%20Notes.png" width=100% height=110%> 
 
@@ -39,13 +39,15 @@
 
 <p align="justify">As it comes to pedagogy, the choral annotation process proposed here could be ubicated in both of the two categories "Interaction" and "Reflexivité" in the typology proposed by a team of researcher in Switzerland, letting room for a wider reflexion on pedagogy design and practices (Lanarès et al., 2023, see pp. 104 y 109 in particular).<br />
   
-<p align="justify"><i>Is simulating a real conversation with authors as they were right here and right there in the very room we are as we read a grotesque idea? Or worst, a misleading representation so far from reality and so evidently false that we should just not follow it at all?</i><br />
+<p align="justify"><i>Is simulating a real conversation with authors as they were right here and right there in the very room we are as we read a grotesque idea?<br />Or worst, a misleading representation so far from reality and so evidently false that we should just not follow it at all?</i><br />
 
->Well, if it feels like this, it is actually a good sign that there is value in the choral annotations proposition. The "choral" conception of having a concrete discussion with real people voicing here and now just like in dailies interactions (or a stage) has been, and still is discussed in semiotics. It refers to the concept of polyphonia (see Anscombre, 2009 for a general presentation of important concepts, also Carel & Ducrot, 2009). It also joins what one could read as the "trap of topology" as it comes to tinking about space, as pointed out by Boris Beaude (2021) for example (or Lefebre, 1974). Central in his reflexion is the latin reference to the very word of "chora" - a public space (see §64 in ibid.) to maintain a critical view on our time. Thus there is more to see than the first intuitive representation foremost mentioned, and its worthwhile discussion that broaddens one's horizons. The wording of <i>choral annotation</i> is an attempt to come closer to these questions and to make it lived and felt when we read a text, attention given to the most possible number of layers at stake (technology, dependecies, authorship, time and space...) so that one could engage our contemporary times with critical distance. And it also comes with fascinating activities and applications. Be it from the field of semiotics, digital and environmantal humanities, social sciences, arts, wondering and procrastination, there are many ways to reflect on our practices of reading, annotating, writing, and expressing ourselves.<br />
+><p align="justify">Well, if it feels like this, it is actually a good sign that there is value in the choral annotations proposition. The "choral" conception of having a concrete discussion with real people voicing here and now just like in dailies interactions (or a stage) has been, and still is discussed in semiotics. It refers to the concept of polyphonia (see Anscombre, 2009 for a general presentation of important concepts, also Carel & Ducrot, 2009). It also joins what one could read as the "trap of topology" as it comes to tinking about space, as pointed out by Boris Beaude (2021) for example (or Lefebre, 1974). Central in his reflexion is the latin reference to the very word of "chora" - a public space (see §64 in ibid.) to maintain a critical view on our time. Thus there is more to see than the first intuitive representation foremost mentioned, and its worthwhile discussion that broaddens one's horizons. The wording of <i>choral annotation</i> is an attempt to come closer to these questions and to make it lived and felt when we read a text, attention given to the most possible number of layers at stake (technology, dependecies, authorship, time and space...) so that one could engage our contemporary times with critical distance. And it also comes with fascinating activities and applications. Be it from the field of semiotics, digital and environmantal humanities, social sciences, arts, wondering and procrastination, there are many ways to reflect on our practices of reading, annotating, writing, and expressing ourselves.</p>
+<br />
 
 <i>Is that an anti-ChatGPT?</i><br />
->Chorals annotations strive for consciousness about authorship and what could be the source of a given information. Thus it has more to do with a form of check and balance device, or "garde-fou" as french say. Which is also a form of an anti-ChatGPT yes, but actually wide opened to the possibility of a wise use of GPT-like tools, by maintaining a critical distance with it. In such sense, it could also be thought of as a hyper Chat-GPT where there is strong hope for the most cautionnary use of chat-GPT and GPT-like technologies in the public space.<br />
 
+><p align="justify">Chorals annotations strive for consciousness about authorship and what could be the source of a given information. Thus it has more to do with a form of check and balance device, or "garde-fou" as french say. Which is also a form of an anti-ChatGPT yes, but actually wide opened to the possibility of a wise use of GPT-like tools, by maintaining a critical distance with it. In such sense, it could also be thought of as a hyper Chat-GPT where there is strong hope for the most cautionnary use of chat-GPT and GPT-like technologies in the public space.</p>
+<br />
 <p align="center">See also <a href="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/ABOUT.md"> "About"page </a href> for more.<br />
 These are some lines of work to be continued by whoever would find curiosity in it.<br />
 In any case, this project started from having fun, I hope you’ll have some too experimenting it for yourself!<br />
@@ -66,6 +68,7 @@ Lanarès, J., Laperrouza, M., & Sylvestre, E. (2023). *Design pédagogique* (1re
 Rinck, F. (2006). Gestion de la polyphonie et figure de l’auteur dans les parties théoriques de Rapports de stage. *Lidil. Revue de linguistique et de didactique des langues*, *34*, Article 34. [https://doi.org/10.4000/lidil.23](https://doi.org/10.4000/lidil.23)<br />
 Schiffrin, D., Tannen, D., & Hamilton, H. E. (Eds.). (2001). *The handbook of discourse analysis*. Blackwell Publishers.<br />
 Shmelev, S. (1998). Whose Knowledge, Whose nature? Biodiversity, Conservation, and the Political Ecology of Social Movements. *Journal of Political Ecology*, *5*(1). [https://doi.org/10.2458/v5i1.21397](https://doi.org/10.2458/v5i1.21397)
+  </p>
  
 ## Extended Bibliography
 [See it online!](https://www.zotero.org/search/type/group?q=Chorale%20Annotations%20Library) There is a public library hosted by Zotero.
