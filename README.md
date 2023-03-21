@@ -48,7 +48,9 @@
 
 <p align="center">See also <a href="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/ABOUT.md"> "About"page </a href> for more.<br />
 These are some lines of work to be continued by whoever would find curiosity in it.<br />
-In any case, this project started from having fun, I hope you’ll have some too experimenting it for yourself!</p>
+In any case, this project started from having fun, I hope you’ll have some too experimenting it for yourself!<br />
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScoWbGWZ8jCFwBfgN460cgv-0p0x5aaZIHY-lyh83Mepz1MNw/viewform?usp=sf_link">Get the newsletters</a href> &#8211; 3 per year or less.
+</p>
 
 ## References
 Anscombre, J.-C. (2009). La comédie de la polyphonie et ses personnages. *Langue française*, *164*(4), 11-31. [https://doi.org/10.3917/lf.164.0011](https://doi.org/10.3917/lf.164.0011)<br />
