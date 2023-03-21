@@ -207,6 +207,8 @@ Now the general template would be the following:< br />
 </p>
 ```
 * Change the text "didascalia colors" according to what you need.< br />
+* If you want to marl the diference between your normal tags and your didasclia tags, you can name your tags using forward slashes "/" i.e. didascalia/<your didascalia>. Then from your text editor do a search and replace ( "didasclia/" by blank so the root "didascalia/"disappear and remains only your actual didascalia wording.
+
 
 Here is how it looks from the reader:<br />
 <p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Zotero%20-%20Didascalias.png" width=67% height=95%></p>

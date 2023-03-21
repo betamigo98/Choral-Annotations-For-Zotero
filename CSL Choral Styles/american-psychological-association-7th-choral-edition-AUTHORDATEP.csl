@@ -2,20 +2,22 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" page-range-format="expanded">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
-    <title>American Psychological Association 7th edition (choral AUTHDATE -and)</title>
-    <title-short>APA</title-short>
-    <id>http://www.zotero.org/styles/american-psychological-association-7th-edition</id>
-    <link href="http://www.zotero.org/styles/american-psychological-association-7th-edition" rel="self"/>
+    <title>American Psychological Association 7th Choral edition - AUTHDATEP</title>
+    <id>http://www.zotero.org/styles/american-psychological-association-7th-choral-edition-authdatep</id>
+    <link href="http://www.zotero.org/styles/american-psychological-association-7th-choral-edition-authdatep" rel="self"/>
     <link href="http://www.zotero.org/styles/apa-6th-edition" rel="template"/>
     <link href="https://apastyle.apa.org/style-grammar-guidelines/references/examples" rel="documentation"/>
     <author>
       <name>Théo Favre - adapted from Brenton M. Wiernik</name>
-      <email>betamigo98@gmail.com</email>
+      <email>betamigo98@gmail.com ; zotero@wiernik.org</email>
     </author>
     <category citation-format="author-date"/>
-    <category field="psychology"/>
+    <category field="humanities"/>
+    <category field="linguistics"/>
+    <category field="social_science"/>
     <category field="generic-base"/>
-    <updated>2023-03-16T15:44:29+00:00</updated>
+    <summary>Modifications to APA7th inline citations so it renders &quot;AUTHORDATEP.&quot;. In Layout: stripped-out parentheses; add a &quot;.&quot;suffix. ; put &quot;. &quot;as delimiter. Citation-locator macro: delete conditional and label, use prefix &quot;P&quot; in all cases. Caps for author name; deleted &quot;.&quot; at the end of group suffix.</summary>
+    <updated>2023-03-20T15:35:07+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -402,8 +404,8 @@
         </choose>
       </else-if>
       <else>
-        <names variable="composer" delimiter=", ">
-          <name form="short" and="symbol" delimiter=", " initialize-with=". "/>
+        <names variable="composer" delimiter=" ">
+          <name form="short" delimiter=" " and="symbol" initialize-with=". "/>
           <substitute>
             <names variable="author"/>
             <names variable="illustrator"/>
@@ -1720,15 +1722,7 @@
   </macro>
   <macro name="citation-locator">
     <group delimiter=" ">
-      <choose>
-        <if locator="chapter">
-          <label variable="locator" text-case="capitalize-first"/>
-        </if>
-        <else>
-          <label variable="locator" form="short"/>
-        </else>
-      </choose>
-      <text variable="locator"/>
+      <text variable="locator" prefix="P"/>
     </group>
   </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year" givenname-disambiguation-rule="primary-name-with-initials">
@@ -1738,10 +1732,11 @@
       <key macro="date-sort-date" sort="ascending"/>
       <key variable="status"/>
     </sort>
-    <layout delimiter=" and ">
-      <group delimiter=" ">
+    <layout delimiter=" ">
+      <group>
         <text macro="author-intext" font-variant="small-caps"/>
         <text macro="date-intext"/>
+        <text macro="citation-locator"/>
       </group>
     </layout>
   </citation>

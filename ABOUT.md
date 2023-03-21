@@ -10,7 +10,15 @@ The APA7th style has been choosen because it is popular and because it was the f
 APA7 has only been modified on the inline citation side. For all styles parentesis habe been stripped. Depending on the variations, the delimiter could have changed to fron ","or ";" to "and" or "&", and the date or the locator could have been deleted. All choral styles have been checked using the [CSL Style and Validator](https://validator.citationstyles.org/).
   
 CSL goes for Citation Style Language. See more about it from [the CSL project homepage](https://citationstyles.org/) and more about current challenges with reference managers and metadata [here](https://commonmeta.org/use-cases).
-  
+## About the AUTHORDATEP Style
+This style keeps the locator od the citation i.e. the page(s) when all the other style have dropped this information.< br />
+For technical reason, a P (in uppercase) is used for both singular and plural pages i.e. for p.1 and pp.1-2.<br />
+The intention was to make look the author(s) as a forum username, and also machine-like nickname like C3-PO in Star Wars saga (I know it's an 'o' not a zero).
+This somewhat echos what Roland Barthes when he wrote that "the death of the author is the birth of the reader". Here every citation is somewhat the birth a new author that the...annotator gave by highlighting and using a part of the text in his proper context.
+
+Reference
+Barthes R. (1984). « La mort de l’auteur », in Le Bruissement de la langue, Paris, Le Seuil.
+
 # Safe Use Disclaimer
 ## Templates
 A good practice for template editing is to save your already existing template in a text document before doing anything. Default templates syntax are accessible on the [note template page from Zotero documentation](https://www.zotero.org/support/note_templates) anyway, but not the ones you have edited.

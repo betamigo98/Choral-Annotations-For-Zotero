@@ -2,20 +2,23 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" page-range-format="expanded">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
-    <title>American Psychological Association 7th (choral -Auth and -bold)</title>
-    <title-short>APA</title-short>
+    <title>American Psychological Association 7th (Choral edition - AUTHOR)</title>
     <id>http://www.zotero.org/styles/american-psychological-association-7th</id>
     <link href="http://www.zotero.org/styles/american-psychological-association-7th" rel="self"/>
     <link href="http://www.zotero.org/styles/apa-6th-edition" rel="template"/>
     <link href="https://apastyle.apa.org/style-grammar-guidelines/references/examples" rel="documentation"/>
     <author>
-      <name>Théo Favre - adapted  from Brenton M. Wiernik</name>
-      <email>betamigo98@gmail.com</email>
+      <name>Théo Favre - adapted from Brenton M. Wiernik</name>
+      <email>betamigo98@gmail.com ; zotero@wiernik.org</email>
     </author>
     <category citation-format="author-date"/>
     <category field="psychology"/>
+    <category field="humanities"/>
+    <category field="social_science"/>
+    <category field="linguistics"/>
     <category field="generic-base"/>
-    <updated>2023-03-17T14:23:12+00:00</updated>
+    <summary>Minor changes to APA7th inline citations so it renders &quot;AUTHOR&quot; :  deleted: date-intext and citation-locator macros; delete &quot;;&quot; delimiter in author-intext (keep space) and add suffix &quot;.&quot;. Caps Author names and delte &quot;.&quot;in author-intext prefix.</summary>
+    <updated>2023-03-20T15:44:09+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -402,7 +405,7 @@
         </choose>
       </else-if>
       <else>
-        <names variable="composer" font-variant="normal" font-weight="bold" delimiter=", ">
+        <names variable="composer" delimiter=", ">
           <name form="short" and="symbol" delimiter=", " initialize-with=". "/>
           <substitute>
             <names variable="author"/>
@@ -1738,9 +1741,9 @@
       <key macro="date-sort-date" sort="ascending"/>
       <key variable="status"/>
     </sort>
-    <layout font-weight="bold" delimiter=" and ">
+    <layout delimiter="  ">
       <group delimiter=", ">
-        <text macro="author-intext" text-case="title" strip-periods="false" quotes="false" font-style="normal" font-weight="bold"/>
+        <text macro="author-intext" font-variant="small-caps"/>
       </group>
     </layout>
   </citation>
