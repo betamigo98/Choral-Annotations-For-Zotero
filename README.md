@@ -20,15 +20,36 @@
 * There is also room for therapeutical applications such as bibliotherapy, dramatherapy, and other art therapies.<br />
 * By continuously asking <i>" Who is talking - in which tone and to whom? "</i> choral annotations contribute to a culture that cares about responsible authorship in academia. Use it as a didactic tool for writing activities!
 * In a so-called "post-truth era" where so-called "anthropos" have to deal with so-called "fake news" and so-called "Chat-GPT3-trained artificial intelligence", there is a call for caution to prevent a blackbox society scenario (see [references section](https://github.com/betamigo98/Choral-Annotations-For-Zotero#references)). Choral annotations are also an humble proposition to reflect on this issue.
+  <br />
   
 # Links
-* [Jump start!](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Jump%20Start.md#jump-start)
-* [Screenshots](https://github.com/betamigo98/PolyDevice/tree/main/Screenshots)
-* [Sample documents for closer view](https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/Choral%20Rendering%20-%20Samples)
-* [All templates](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#template-scripts)
-* [Download APA7 Choral Styles](https://github.com/betamigo98/PolyDevice/tree/main/CSL%20Choral%20Styles)
-* [Library Group linked to that project](https://www.zotero.org/search/type/group?q=Chorale%20Annotations%20Library)
-* [I want that template I just saw above!](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#33-centered---french-convention)
+<div align="center">
+<table>
+  <tbody>
+    <tc>
+     <td>
+       <ul>
+          <li><a href="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Jump%20Start.md#jump-start">Jump Start!</a href></li>
+          <li><a href="https://github.com/betamigo98/PolyDevice/tree/main/Screenshots">Screenshots</a href></li>
+          <li><a href="https://github.com/betamigo98/Choral-Annotations-For-Zotero/tree/main/Choral%20Rendering%20-%20Samples">Sample Documents For Closer View</a href></li>
+         <li><a href="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#33-centered---french-convention">I Want That Template I Just Saw Above!</a href></li>
+        </ul>
+      </td>
+    </tc>
+    <tc>
+      <td>
+         <ul>
+           <li><a href="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Step-by-Step%20Install%20and%20Workflow.md">Step-By-Step Workflow And Install </a href>
+           <li><a href="https://github.com/betamigo98/PolyDevice/tree/main/CSL%20Choral%20Styles">Download APA7 Choral Styles</a href></li>
+           <li><a href="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Jump%20Start.md#jump-start">All Templates With Previews</a href></li>
+           <li><a href="https://www.zotero.org/search/type/group?q=Chorale%20Annotations%20Library">Zotero Public Library Linkeď To That Project</a href></li>
+         </ul>
+      </td>
+    </tc>
+    </tbody>
+ </table>
+ </div>       
+<br />
 
 # About Choral Annotations
 <p align="justify">This is no more than a couple of html lines in three fields from Zotero advanced preference pane. There is also a very short amount of CSV Style editing. The html lines are templates in the sense that they pre-format the annotations you made from Zotero reader pane. Last part of the formatting process depends on text editors compatible with <a href https://www.zotero.org/support/word_processor_integration>Zotero word processor plugin</a href> (i.e. most of it).<br />
@@ -64,12 +85,11 @@ Haraway, D. (2015). Anthropocene, Capitalocene, Plantationocene, Chthulucene: Ma
 Kalir, R., & Garcia, A. (2021). *Annotation*. The MIT Press.<br />
 Kersh, S. E., & Skalak, C. (2018). From Distracted to Recursive Reading: Facilitating Knowledge Transfer through Annotation Software. *DHQ: Digital Humanities Quarterly*, *12*(2). [http://www.digitalhumanities.org/dhq/vol/12/2/000387/000387.html](http://www.digitalhumanities.org/dhq/vol/12/2/000387/000387.html) <br />
 Pasquale, F. (2016). *The black box society: The secret algorithms that control money and information* (First Harvard University Press paperback edition). Harvard University Press.<br/>
-Lanarès, J., Laperrouza, M., & Sylvestre, E. (2023). *Design pédagogique* (1re édition). Épistémé. [https://doi.org/10.55430/8015VA01](https://doi.org/10.55430/8015VA01). [See offical site for downloading a copy](https://designpedagogique.info/)<br />
+Lanarès, J., Laperrouza, M., & Sylvestre, E. (2023). *Design pédagogique* (1re édition). Épistémé. [https://doi.org/10.55430/8015VA01](https://doi.org/10.55430/8015VA01). See offical site for [downloading a copy](https://designpedagogique.info/).<br />
 Rinck, F. (2006). Gestion de la polyphonie et figure de l’auteur dans les parties théoriques de Rapports de stage. *Lidil. Revue de linguistique et de didactique des langues*, *34*, Article 34. [https://doi.org/10.4000/lidil.23](https://doi.org/10.4000/lidil.23)<br />
 Schiffrin, D., Tannen, D., & Hamilton, H. E. (Eds.). (2001). *The handbook of discourse analysis*. Blackwell Publishers.<br />
 Shmelev, S. (1998). Whose Knowledge, Whose nature? Biodiversity, Conservation, and the Political Ecology of Social Movements. *Journal of Political Ecology*, *5*(1). [https://doi.org/10.2458/v5i1.21397](https://doi.org/10.2458/v5i1.21397)
-  </p>
- 
+
 ## Extended Bibliography
 [See it online!](https://www.zotero.org/search/type/group?q=Chorale%20Annotations%20Library) There is a public library hosted by Zotero.
 
