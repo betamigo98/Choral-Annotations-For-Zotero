@@ -4,7 +4,7 @@ As html scripts, there is no formal installation in the conventional sense of so
 Activating the choral templates is made by text edition and basic copy-pasting.<br />
 ### Which template should I use?
 * [Centered with French convention](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#33-centered---french-convention) might be the most direct and easy to use
-* [Didasclia set-up](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#42-didascalia-workaround) is the most colorful and complete, but you'll have to understand when to use tags and when to use highlights
+* [Didasclia set-up](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#42-didascalia-workaround) is the most colorful and complete, but you'll have to understand when to use tags and when to use highlights.
 <br />
 
 <p> 1) From Zoter desktop interface : Edition -> Preferences -> Advanced -> Configuration editor.<br />
@@ -26,6 +26,11 @@ For other templates just repeat the steps [mutatis mutandis](https://en.wikipedi
 * You can also edit your own CSL style (follow the guideline from the same link mentionned above).<br />
 Adding a style should looks like this from Zotero Edition -> Preferences -> Cite: <br />
 <p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Zotero%20-%20Add%20Choral%20Style.png" width=66% height=30%></p>
+
+### Which Choral Style should I use?
+* AUTHOR is most basic and straightforward style
+* AUTHORDATE add the infromation about publication year
+* AUHTORDATEP add the page locator information [see why to use it](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/ABOUT.md#about-the-authordatep-style)
 
 # 3. Highlight And Create Note From Annotations
 <p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Zotero%20-%20Making%20Annotations%20And%20Create%20Notes.png" width=81% height=90%>
