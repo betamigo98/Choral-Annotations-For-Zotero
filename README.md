@@ -75,7 +75,7 @@ Schiffrin, D., Tannen, D., & Hamilton, H. E. (Eds.). (2001). *The handbook of di
 Shmelev, S. (1998). Whose Knowledge, Whose nature? Biodiversity, Conservation, and the Political Ecology of Social Movements. *Journal of Political Ecology*, *5*(1). [https://doi.org/10.2458/v5i1.21397](https://doi.org/10.2458/v5i1.21397)
 <br />
 ## Extended Bibliography
-[See it online!](https://www.zotero.org/search/type/group?q=Chorale%20Annotations%20Library) There is a public library hosted by Zotero.
+[See it online!](https://www.zotero.org/groups/4989639/choral_annotations_library) There is a public library hosted by Zotero.
 <br />
 <br />
 # Roadmap and scenarios for Choral Annotations
