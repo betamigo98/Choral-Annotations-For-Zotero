@@ -1,3 +1,4 @@
+# About Choral Annotations For Zotero
 <p align="justify">
 Choral annotations for Zotero is a technology intended to render out the process of reading and annotating as a screenplay where the author(s), or any other metadata field, is — typographicaly in dialog with the annotator(s).<br>
 It is a set of short html scripts at its core and depends on Zotero — in particular its templating features and CSV style editor.<br>
