@@ -2,6 +2,11 @@
 # 1. "Install" Formated Templates
 As html scripts, there is no formal installation in the conventional sense of software installation per se.<br />
 Activating the choral templates is made by text edition and basic copy-pasting.<br />
+### Which template should I use?
+* [Centered with French convention](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#33-centered---french-convention) might be the most direct and easy to use
+* [Didasclia set-up](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#42-didascalia-workaround) is the most colorful and complete, but you'll have to understand when to use tags and when to use highlights
+<br />
+
 <p> 1) From Zoter desktop interface : Edition -> Preferences -> Advanced -> Configuration editor.<br />
 2) write "template" in the main search bar<br />
 3) either double-click or right click to the three template fields. They all start with "extensions.zotero.annotations.noteTemplates."<br />
