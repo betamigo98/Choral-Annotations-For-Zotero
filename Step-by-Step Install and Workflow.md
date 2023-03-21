@@ -30,7 +30,7 @@ Adding a style should looks like this from Zotero Edition -> Preferences -> Cite
 ### Which Choral Style should I use?
 * AUTHOR is most basic and straightforward style
 * AUTHORDATE add the infromation about publication year
-* AUHTORDATEP add the page locator information [see why to use it](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/ABOUT.md#about-the-authordatep-style)
+* AUHTORDATEP add the page locator information. [See why use it.](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/ABOUT.md#about-the-authordatep-style)
 
 # 3. Highlight And Create Note From Annotations
 <p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Zotero%20-%20Making%20Annotations%20And%20Create%20Notes.png" width=81% height=90%>
