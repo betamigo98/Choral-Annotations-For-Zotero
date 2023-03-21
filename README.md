@@ -83,3 +83,7 @@ Shmelev, S. (1998). Whose Knowledge, Whose nature? Biodiversity, Conservation, a
 * Trials with various item type and more complex citations
 * Get feebacks for possible new features
 
+<br />
+
+<i>Cite this repositoy if you feel that it makes sense for you. See it of the right-hand pane in the main page of this repo, or [see citation file](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/CITATION.cff).<br /></i>
+[![DOI](https://zenodo.org/badge/613136224.svg)](https://zenodo.org/badge/latestdoi/613136224)
