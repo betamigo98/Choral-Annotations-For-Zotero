@@ -5,18 +5,18 @@ Activating the choral templates is made by text edition and basic copy-pasting.<
 ### Which template should I use?
 * [Centered with French convention](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#33-centered---french-convention) might be the most direct and easy to use
 * [Didasclia set-up](https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Template%20Scripts.md#42-didascalia-workaround) is the most colorful and complete, but you'll have to understand when to use tags and when to use highlights.
-<br />
 
-<p> 1) From Zoter desktop interface : Edition -> Preferences -> Advanced -> Configuration editor.<br />
-2) write "template" in the main search bar<br />
-3) either double-click or right click to the three template fields. They all start with "extensions.zotero.annotations.noteTemplates."<br />
-4)Edit the each three item fields with templates names that correspond to its suffix: "title"; "note"; and "highlight" and click OK or press enter.<br />
+### Paste the templates in Zotero
+1. From Zoter desktop interface : Edition -> Preferences -> Advanced -> Configuration editor.<br />
+2. write "template" in the main search bar<br />
+3. either double-click or right click to the three template fields. They all start with "extensions.zotero.annotations.noteTemplates."<br />
+4. Edit the each three item fields with templates names that correspond to its suffix: "title"; "note"; and "highlight" and click OK or press enter.<br />
 
 <i>Small tip: </i> Do not close the preference pane so you could switch back to it and re-edit the template for your personal adjustments.</p>
 
-See the following picture that recaps all the template editing part (Centered-formatted template in this example):
-<p align="center"><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Scripts%20-%20Templates%20(Centered).png" width=81% height=90%></p>
+<p align="center"><i>The following picture recaps all the template editing part &#8211 Centered-formatted template in this example</i><br /><img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Scripts%20-%20Templates%20(Centered).png" width=81% height=90%></p>
 
+### What if I want to try all the templates?
 For other templates just repeat the steps [mutatis mutandis](https://en.wikipedia.org/wiki/Mutatis_mutandis).
 
 # 2. Install CSL Styles in Zotero
