@@ -4,6 +4,7 @@ authors:
 - family-names: "Favre"
   given-names: "Théo"
   orcid: "https://orcid.org/0009-0009-4121-3348"
+  doi: "https://zenodo.org/badge/latestdoi/613136224"
 title: "Choral Annotations For Zotero"
 version: 1.0.0
 date-released: 2023-03-21
