@@ -1,8 +1,9 @@
-# <p align="center"> Choral Annotions For Zotero
-# <p align="center"> Make Your Annotations Look Like A Screenplay!
-<p align="center"> <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Centered%20-%20French%20Convention.png" width=88% height=93%><br /></p>
+<div align="center"><h1> Choral Annotions For Zotero</h1>
+  <h1> Make Your Annotations Look Like A Screenplay!</h1><br />
+  <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/Pdf%20-%20Centered%20-%20French%20Convention.png" width=88% height=93%><br /></p>
 
-# <p align="center"> Overview:
+<h1>Overview:</h1>
+
 | Annotate your reading from Zotero reader... | ...and create a Choral Annotation rendering in two clicks...
 |:---:|:---:|
 | <img src="https://github.com/betamigo98/PolyDevice/blob/main/Screenshots/Zotero%20-%20Making%20Annotations.png" width=100% height=80%> | <img src="https://github.com/betamigo98/PolyDevice/blob/main/Screenshots/Zotero%20-%20Making%20Annotations%20And%20Create%20Notes.png" width=100% height=110%> 
@@ -11,9 +12,9 @@
 |:---:|:---:|
 | <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/LibreOffice%20-%20Add%20Notes.png"> | <img src="https://github.com/betamigo98/PolyDevice/blob/main/Screenshots/Pdf%20-%20Centered%20-%20French%20Convention.png">
 
-## <p align="center">Perform your dialogs, reflect on the meaning of life, and challenge reality!<br />
-## <p align="center">...or just have some fun while maintaining rigorous bibliografic references!<br />
+<h2>Perform your dialogs and have some fun while maintaining rigorous bibliografic references!</h2><br />
 <br />
+</div>
   
 # Why using Choral Annotations for Zotero ?
 * Engage with the world by projecting yourself in dialog with authors, publisher, and...metadata!<br />
