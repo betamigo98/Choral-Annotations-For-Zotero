@@ -16,7 +16,7 @@
 <br />
 </div>
   
-# Why using Choral Annotations for Zotero ?
+# Why Choral Annotations for Zotero ?
 * Engage with the world by projecting yourself in dialog with authors, publisher, and...metadata!<br />
 * Discover the fields of digital humanities, literacy, semantics! Enter in reflections on authorship, identity, plagiarism, rhetorics, polyphonia, ventriloquism, and much more!<br />
 * Use it for creative work and scenic arts! Work in group, compile readings, print it, and be amazed by what comes out! You'll be surprised and you'll make unexpecteded discoveries!
