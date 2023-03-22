@@ -1,8 +1,0 @@
-lsi: false
-safe: true
-source: [Choral-Annotations-For-Zotero]
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-markdown: GFM
