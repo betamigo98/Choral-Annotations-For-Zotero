@@ -12,7 +12,7 @@
 |:---:|:---:|
 | <img src="https://github.com/betamigo98/Choral-Annotations-For-Zotero/blob/main/Screenshots/LibreOffice%20-%20Add%20Notes.png"> | <img src="https://github.com/betamigo98/PolyDevice/blob/main/Screenshots/Pdf%20-%20Centered%20-%20French%20Convention.png">
 
-<h2>Perform your dialogs and have some fun while maintaining rigorous bibliografic references!</h2><br />
+<h2>Have some fun while maintaining rigorous bibliografic references!</h2><br />
 <br />
 </div>
   
